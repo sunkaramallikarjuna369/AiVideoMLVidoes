@@ -17,20 +17,24 @@ cd AiVideoMLVidoes
 
 Make sure you have the following installed:
 
-**Python 3.12+** - Download from https://www.python.org/downloads/
+**Python 3.10+** - Download from https://www.python.org/downloads/
 
 **Node.js 18+** - Download from https://nodejs.org/
 
-**Poetry** (Python package manager) - Install with:
-```bash
-curl -sSL https://install.python-poetry.org | python3 -
-```
-
-### Step 3: Install Backend Dependencies
+### Step 3: Create Virtual Environment and Install Backend Dependencies
 
 ```bash
 cd backend
-poetry install
+python -m venv venv
+
+# On Windows:
+venv\Scripts\activate
+
+# On macOS/Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 ### Step 4: Install Frontend Dependencies
@@ -42,10 +46,15 @@ npm install
 
 ### Step 5: Start the Backend Server
 
-Open a terminal and run:
+Open a terminal, activate the virtual environment, and run:
 ```bash
 cd backend
-poetry run fastapi dev app/main.py --host 0.0.0.0 --port 8000
+
+# Activate virtual environment first:
+# On Windows: venv\Scripts\activate
+# On macOS/Linux: source venv/bin/activate
+
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 You should see output like:
@@ -102,7 +111,7 @@ You will see the Video Downloader interface with all 558 videos organized by mod
 ├── backend/               # FastAPI backend
 │   ├── app/
 │   │   └── main.py       # Main API code
-│   └── pyproject.toml    # Python dependencies
+│   └── requirements.txt  # Python dependencies
 ├── frontend/              # React + Vite frontend
 │   ├── src/
 │   │   └── App.tsx       # Main React component
@@ -114,9 +123,9 @@ You will see the Video Downloader interface with all 558 videos organized by mod
 ## Troubleshooting
 
 **Backend won't start:**
-- Make sure Python 3.12+ is installed: `python --version`
-- Make sure Poetry is installed: `poetry --version`
-- Try reinstalling dependencies: `cd backend && poetry install`
+- Make sure Python 3.10+ is installed: `python --version`
+- Make sure virtual environment is activated
+- Try reinstalling dependencies: `cd backend && pip install -r requirements.txt`
 
 **Frontend won't start:**
 - Make sure Node.js 18+ is installed: `node --version`
