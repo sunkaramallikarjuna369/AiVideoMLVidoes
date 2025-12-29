@@ -2,6 +2,90 @@
 
 A FastAPI + React application to download AI and Quantum Computing course videos with a rich UI and progress tracking.
 
+## Quick Start Guide
+
+Follow these steps to run the application on your local machine:
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/sunkaramallikarjuna369/AiVideoMLVidoes.git
+cd AiVideoMLVidoes
+```
+
+### Step 2: Install Prerequisites
+
+Make sure you have the following installed:
+
+**Python 3.12+** - Download from https://www.python.org/downloads/
+
+**Node.js 18+** - Download from https://nodejs.org/
+
+**Poetry** (Python package manager) - Install with:
+```bash
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+### Step 3: Install Backend Dependencies
+
+```bash
+cd backend
+poetry install
+```
+
+### Step 4: Install Frontend Dependencies
+
+```bash
+cd ../frontend
+npm install
+```
+
+### Step 5: Start the Backend Server
+
+Open a terminal and run:
+```bash
+cd backend
+poetry run fastapi dev app/main.py --host 0.0.0.0 --port 8000
+```
+
+You should see output like:
+```
+INFO:     Uvicorn running on http://0.0.0.0:8000
+```
+
+Keep this terminal open.
+
+### Step 6: Start the Frontend Server
+
+Open a NEW terminal and run:
+```bash
+cd frontend
+npm run dev
+```
+
+You should see output like:
+```
+VITE v6.x.x  ready in xxx ms
+➜  Local:   http://localhost:5173/
+```
+
+Keep this terminal open.
+
+### Step 7: Open the Application
+
+Open your web browser and go to: **http://localhost:5173**
+
+You will see the Video Downloader interface with all 558 videos organized by module and chapter.
+
+### Step 8: Download Videos
+
+1. Click on a module name to expand it and see chapters
+2. Click on a chapter name to see individual videos
+3. Use checkboxes to select specific videos, or click "Select All" for a chapter
+4. Click "Download All" to download all 558 videos, or "Download Selected" for chosen videos
+5. Watch the progress bars as videos download
+6. Videos are saved to the `downloads/` folder organized by module/chapter
+
 ## Features
 
 - Browse 558 videos organized by module and chapter
@@ -15,61 +99,37 @@ A FastAPI + React application to download AI and Quantum Computing course videos
 
 ```
 .
-├── backend/          # FastAPI backend
-├── frontend/         # React + Vite frontend
-├── video_urls_final.json  # Video metadata
-└── downloads/        # Downloaded videos (created automatically)
+├── backend/               # FastAPI backend
+│   ├── app/
+│   │   └── main.py       # Main API code
+│   └── pyproject.toml    # Python dependencies
+├── frontend/              # React + Vite frontend
+│   ├── src/
+│   │   └── App.tsx       # Main React component
+│   └── package.json      # Node dependencies
+├── video_urls_final.json  # Video metadata (558 videos)
+└── downloads/             # Downloaded videos (created automatically)
 ```
 
-## Prerequisites
+## Troubleshooting
 
-- Python 3.12+
-- Node.js 18+
-- Poetry (Python package manager)
+**Backend won't start:**
+- Make sure Python 3.12+ is installed: `python --version`
+- Make sure Poetry is installed: `poetry --version`
+- Try reinstalling dependencies: `cd backend && poetry install`
 
-## Installation
+**Frontend won't start:**
+- Make sure Node.js 18+ is installed: `node --version`
+- Try reinstalling dependencies: `cd frontend && rm -rf node_modules && npm install`
 
-### Backend Setup
+**Videos not downloading:**
+- Check that the backend is running on port 8000
+- Check browser console for errors (F12 > Console)
+- Make sure you have internet connection
 
-```bash
-cd backend
-poetry install
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-```
-
-## Running the Application
-
-### Start Backend (Terminal 1)
-
-```bash
-cd backend
-poetry run fastapi dev app/main.py --host 0.0.0.0 --port 8000
-```
-
-### Start Frontend (Terminal 2)
-
-```bash
-cd frontend
-npm run dev
-```
-
-Then open http://localhost:5173 in your browser.
-
-## Usage
-
-1. Browse videos organized by module and chapter in the accordion view
-2. Click on modules to expand and see chapters
-3. Click on chapters to see individual videos
-4. Use checkboxes to select specific videos or click "Select All" for a chapter
-5. Click "Download All" to download all 558 videos or "Download Selected" for chosen videos
-6. Monitor progress with real-time progress bars
-7. Videos are saved to the `downloads/` folder organized by module/chapter
+**Port already in use:**
+- Backend: Change port with `--port 8001` and update frontend `.env` file
+- Frontend: Change port with `npm run dev -- --port 3000`
 
 ## API Endpoints
 
