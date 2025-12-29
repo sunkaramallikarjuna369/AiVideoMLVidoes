@@ -1,0 +1,3914 @@
+{
+  "course_url": "https://panel.qpiai-explorer.tech/app/course/access/6426c42173fd5fc6d56f5beb",
+  "total_videos": 558,
+  "total_lessons": 678,
+  "extracted_at": "2025-12-29 15:16:40",
+  "videos": [
+    {
+      "title": "Introduction to AI & Quantum Courses",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/c174727d52f81e7c8e23776566ddbb391638279348432.mp4",
+      "module": "Introduction to AI & Quantum Courses",
+      "chapter": "Introduction",
+      "lesson_id": "61a6292892986b782d6e80e0"
+    },
+    {
+      "title": "Intuition and Aim of the Refresher Course in Linear Algebra",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+0+Intuition+and+Aim+of+the+Refresher+Course+in+Linear+Algebra.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632820c43a4ed28ac1fd33a8"
+    },
+    {
+      "title": "Introduction to Vectors and it's Significance",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+1.1+Intro+to+Vectors.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632820cdb736ae8aa6c4390e"
+    },
+    {
+      "title": "Basic Vector Operations and Terminologies",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+1.2+Basic+Vector+Operations+and+Terminologies.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632820d587a6b38aa5376ba0"
+    },
+    {
+      "title": "Linearly Dependent Vectors",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+1.3+Linearly+Dependent+Vectors.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632820e0bb8b9e8ac30284c8"
+    },
+    {
+      "title": "Intro to Matrices",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+2.1+Intro+to+Matrices.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632820e93a4ed28ac1fd33a9"
+    },
+    {
+      "title": "Operations on Matrices",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+2.2+Operations+on+Matrices+.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632820f53a4ed28ac1fd33aa"
+    },
+    {
+      "title": "Special Matrices and Matrix Inverse",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+2.3+Special+Matrices+and+Matrix+Inverse.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "6328211287a6b38aa5376ba1"
+    },
+    {
+      "title": "Linear Transformations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+3+linear+transformation.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632821213a4ed28ac1fd33ab"
+    },
+    {
+      "title": "Linear Transformation and Change of Basis",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+4+Linear+Transformation+and+Change+of+Basis.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "6328212ab736ae8aa6c4390f"
+    },
+    {
+      "title": "Eigenvectors and Eigenvalues",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+5+Eigenvectors+and+Eigenvalues.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63282135b736ae8aa6c43910"
+    },
+    {
+      "title": "Inner product",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+6+inner+product.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "6328213dbb8b9e8ac30284c9"
+    },
+    {
+      "title": "Singular Value Decomposition",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+7+Singular+Value+Decomposition.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "6328214bb736ae8aa6c43911"
+    },
+    {
+      "title": "Bonus: Unitary Operators",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bouns_+Unitary+Operators.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "6328215b3a4ed28ac1fd33ac"
+    },
+    {
+      "title": "Bonus: Diagonalisation (part 1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bonus_+Diagonalisation+(part+1).mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63282164b736ae8aa6c43912"
+    },
+    {
+      "title": "Bonus: Diagonalisation (part 2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bonus_+Diagonalisation+(part+2).mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "6328217187a6b38aa5376ba2"
+    },
+    {
+      "title": "Bonus: Singular Value Decomposition",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bonus_+Singular+Value+Decomposition.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "632821793a4ed28ac1fd33ad"
+    },
+    {
+      "title": "Basic elements of QM: Preparation and Measurement (introduction)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+1.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abc9b0826e4bde2925c57"
+    },
+    {
+      "title": "Quantum state: mathematical description of preparation procedure",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+2.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abcbb595a93be147700ae"
+    },
+    {
+      "title": "Projector: mathematical description of measurement procedure",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+3.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abce2595a93be147700af"
+    },
+    {
+      "title": "Basic elements of QM: Preparation and Measurement (summary)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+4.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abcff253934be1aa6898e"
+    },
+    {
+      "title": "Mixed state",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+5.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abd2c0826e4bde2925c59"
+    },
+    {
+      "title": "Summary so far",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+6.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abd550826e4bde2925c5b"
+    },
+    {
+      "title": "Distinct measurements",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+7.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abd6a0826e4bde2925c5c"
+    },
+    {
+      "title": "Quantum evolution and superposition",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/BQM+8+and+9.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abd850826e4bde2925c5d"
+    },
+    {
+      "title": "Quantum entanglement",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+10.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abd9a253934be1aa6898f"
+    },
+    {
+      "title": "Quantum channel: Completely Positive Trace Preserving (CPTP) map",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/BQM+11+and+12.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abdb50826e4bde2925c5e"
+    },
+    {
+      "title": "Final Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Basics+of+QM+13.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Basics of Quantum Mechanics",
+      "lesson_id": "616abdc7253934be1aa68990"
+    },
+    {
+      "title": "Quantum Computing: What, Why and How?",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Computing_+What%2C+Why%2C+and+How.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "General Lecture on Quantum Technology",
+      "lesson_id": "616abde625f855bddc04df4c"
+    },
+    {
+      "title": "Introduction: Essential Computer Science",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs1.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe0b25f855bddc04df4d"
+    },
+    {
+      "title": "An overview of computation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs2.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe2d25f855bddc04df4e"
+    },
+    {
+      "title": "Classical Information and Computation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs3.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe3e0826e4bde2925c5f"
+    },
+    {
+      "title": "Models of Computation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs4.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe51253934be1aa68991"
+    },
+    {
+      "title": "FSMs and Turing Machine",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs5.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe70253934be1aa68992"
+    },
+    {
+      "title": "Computational Problems",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs6.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe8b253934be1aa68993"
+    },
+    {
+      "title": "Algorithms and Optimization Problems",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs7.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abe9e595a93be147700b1"
+    },
+    {
+      "title": "Computational Complexity",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs8.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abeb0595a93be147700b2"
+    },
+    {
+      "title": "Complexity Classes",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs9.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abecd0826e4bde2925c60"
+    },
+    {
+      "title": "Quantum Computational Model",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs10.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abf090826e4bde2925c61"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/cs11.mp4",
+      "module": "Prerequisites for Quantum Computing",
+      "chapter": "Essential Computer Science",
+      "lesson_id": "616abf25595a93be147700b3"
+    },
+    {
+      "title": "Simplest quantum system: qubit",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V1.mp4",
+      "module": "Quantum States and Qubits Part 1",
+      "chapter": "Single-qubit states and superposition Part 1",
+      "lesson_id": "61a6f6f416f7fb7810ce3b34"
+    },
+    {
+      "title": "Single-qubit \u201cpure\u201d state (part 1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V2.mp4",
+      "module": "Quantum States and Qubits Part 1",
+      "chapter": "Single-qubit states and superposition Part 1",
+      "lesson_id": "61a6f6fe4b82e2b3ea61d40a"
+    },
+    {
+      "title": "Single-qubit \u201cpure\u201d state (part 2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V3.mp4",
+      "module": "Quantum States and Qubits Part 1",
+      "chapter": "Single-qubit states and superposition Part 1",
+      "lesson_id": "61a6f707c65a75b3e37ee25b"
+    },
+    {
+      "title": "Single-qubit \u201cmixed\u201d state",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V4.mp4",
+      "module": "Quantum States and Qubits Part 1",
+      "chapter": "Single-qubit states and superposition Part 1",
+      "lesson_id": "61a6f71dc65a75b3e37ee25c"
+    },
+    {
+      "title": "Properties of the Pauli operators",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V5.mp4",
+      "module": "Quantum States and Qubits Part 2",
+      "chapter": "Single-qubit states and superposition Part 2",
+      "lesson_id": "61a6fa690d0de97826cb349c"
+    },
+    {
+      "title": "Spectral decomposition of a single-qubit state",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V6.mp4",
+      "module": "Quantum States and Qubits Part 2",
+      "chapter": "Single-qubit states and superposition Part 2",
+      "lesson_id": "61a6fa8216f7fb7810ce3b36"
+    },
+    {
+      "title": "Superposition: Mach\u2013Zehnder interferometer and the double-slit experiment",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/V7.mp4",
+      "module": "Quantum States and Qubits Part 2",
+      "chapter": "Single-qubit states and superposition Part 2",
+      "lesson_id": "61a6fa8cc65a75b3e37ee25d"
+    },
+    {
+      "title": "Logic gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG0.mp4",
+      "module": "Quantum States and Qubits Part 3",
+      "chapter": "Single-qubit gates and measurements Part 1",
+      "lesson_id": "61a6fb87c65a75b3e37ee25e"
+    },
+    {
+      "title": "Representing a single-qubit system (RECALL)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG1.mp4",
+      "module": "Quantum States and Qubits Part 3",
+      "chapter": "Single-qubit gates and measurements Part 1",
+      "lesson_id": "61a6fbab92986b782d6e80ef"
+    },
+    {
+      "title": "Unitary evolution: Rotation of the Bloch vector (part 1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG2.mp4",
+      "module": "Quantum States and Qubits Part 3",
+      "chapter": "Single-qubit gates and measurements Part 1",
+      "lesson_id": "61a6fbb74b82e2b3ea61d40c"
+    },
+    {
+      "title": "Unitary evolution: Rotation of the Bloch vector (part 2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG3.mp4",
+      "module": "Quantum States and Qubits Part 3",
+      "chapter": "Single-qubit gates and measurements Part 1",
+      "lesson_id": "61a6fbf36f83deb3c3144839"
+    },
+    {
+      "title": "Rotation around x , y , z axes",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG4.mp4",
+      "module": "Quantum States and Qubits Part 3",
+      "chapter": "Single-qubit gates and measurements Part 1",
+      "lesson_id": "61a6fbfb16f7fb7810ce3b37"
+    },
+    {
+      "title": "Pauli, Hadamard, and Phase gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG5.mp4",
+      "module": "Quantum States and Qubits Part 4",
+      "chapter": "Single-qubit gates and measurements Part 2",
+      "lesson_id": "61a6fd6b4b82e2b3ea61d40f"
+    },
+    {
+      "title": "How to prepare a general pure state",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG6.mp4",
+      "module": "Quantum States and Qubits Part 4",
+      "chapter": "Single-qubit gates and measurements Part 2",
+      "lesson_id": "61a6fd7592986b782d6e80f2"
+    },
+    {
+      "title": "How to go from one pure state to another in 3 rotations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG7.mp4",
+      "module": "Quantum States and Qubits Part 4",
+      "chapter": "Single-qubit gates and measurements Part 2",
+      "lesson_id": "61a6fd864b82e2b3ea61d410"
+    },
+    {
+      "title": "A useful theorem for designing controlled unitary gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG8.mp4",
+      "module": "Quantum States and Qubits Part 4",
+      "chapter": "Single-qubit gates and measurements Part 2",
+      "lesson_id": "61a6fdab3496dcb3c20242af"
+    },
+    {
+      "title": "Universal set of \u201cdiscrete\u201d single-qubit gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG9.mp4",
+      "module": "Quantum States and Qubits Part 5",
+      "chapter": "Single-qubit gates and measurements Part 3",
+      "lesson_id": "61a6fdfb16f7fb7810ce3b39"
+    },
+    {
+      "title": "Projective measurement for a qubit",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG10.mp4",
+      "module": "Quantum States and Qubits Part 5",
+      "chapter": "Single-qubit gates and measurements Part 3",
+      "lesson_id": "61a6fe3975e888780a679680"
+    },
+    {
+      "title": "Symmetric Informationally Complete POVM for a qubit",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SQG11.mp4",
+      "module": "Quantum States and Qubits Part 5",
+      "chapter": "Single-qubit gates and measurements Part 3",
+      "lesson_id": "61a6fe89c65a75b3e37ee260"
+    },
+    {
+      "title": "Representing a single-qubit system (RECALL)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS1.mp4",
+      "module": "Quantum States and Qubits Part 6",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 1",
+      "lesson_id": "61a6ff613496dcb3c20242b1"
+    },
+    {
+      "title": "Representing a two-qubit system",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS2.mp4",
+      "module": "Quantum States and Qubits Part 6",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 1",
+      "lesson_id": "61a6ff6a16f7fb7810ce3b3c"
+    },
+    {
+      "title": "Product vs Entangled states",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS3.mp4",
+      "module": "Quantum States and Qubits Part 6",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 1",
+      "lesson_id": "61a6ff7b92986b782d6e80f3"
+    },
+    {
+      "title": "Separable vs Entangled states",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS4.mp4",
+      "module": "Quantum States and Qubits Part 7",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 2",
+      "lesson_id": "61a6fff292986b782d6e80f4"
+    },
+    {
+      "title": "Entangled states (Quantum correlation stronger than classical correlation)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS5.mp4",
+      "module": "Quantum States and Qubits Part 7",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 2",
+      "lesson_id": "61a700030d0de97826cb34a0"
+    },
+    {
+      "title": "Incomplete measurement, partial trace, reduced state",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS6.mp4",
+      "module": "Quantum States and Qubits Part 7",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 2",
+      "lesson_id": "61a700154b82e2b3ea61d412"
+    },
+    {
+      "title": "NO faster than light communication",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS7.mp4",
+      "module": "Quantum States and Qubits Part 8",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 3",
+      "lesson_id": "61a700b06f83deb3c314483a"
+    },
+    {
+      "title": "Schmidt decomposition of a bipartite state-vector",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS8.mp4",
+      "module": "Quantum States and Qubits Part 8",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 3",
+      "lesson_id": "61a700b8c65a75b3e37ee262"
+    },
+    {
+      "title": "Bell inequality: the question is about \"the origin\" of probabilistic nature (EPR Argument)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS9.mp4",
+      "module": "Quantum States and Qubits Part 8",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 3",
+      "lesson_id": "61a700c84b82e2b3ea61d413"
+    },
+    {
+      "title": "Bell inequality: the question is about \"the origin\" of probabilistic nature (hidden variable)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS10.mp4",
+      "module": "Quantum States and Qubits Part 8",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 3",
+      "lesson_id": "61a700d175e888780a679684"
+    },
+    {
+      "title": "Bell inequality: the question is about \"the origin\" of probabilistic nature (Quantum correlation)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS11.mp4",
+      "module": "Quantum States and Qubits Part 9",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 4",
+      "lesson_id": "61a7016c4b82e2b3ea61d414"
+    },
+    {
+      "title": "Bell inequality: the question is about \"the origin\" of probabilistic nature (conclusion)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS12.mp4",
+      "module": "Quantum States and Qubits Part 9",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 4",
+      "lesson_id": "61a7017492986b782d6e80f5"
+    },
+    {
+      "title": "Bell inequality: \"Device-independent\" quantum cryptography",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS13.mp4",
+      "module": "Quantum States and Qubits Part 9",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 4",
+      "lesson_id": "61a7017d0d0de97826cb34a1"
+    },
+    {
+      "title": "LOCC, Entanglement witness, and Entanglement measure",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQS14.mp4",
+      "module": "Quantum States and Qubits Part 9",
+      "chapter": "Two-qubit states, entanglement, and Bell inequality Part 4",
+      "lesson_id": "61a7018a92986b782d6e80f6"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG1.mp4",
+      "module": "Quantum States and Qubits Part 10",
+      "chapter": "Two-qubit gates and observable Part 1",
+      "lesson_id": "61a70203c65a75b3e37ee264"
+    },
+    {
+      "title": "XOR logic gate and Controlled-NOT quantum gate",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG2.mp4",
+      "module": "Quantum States and Qubits Part 10",
+      "chapter": "Two-qubit gates and observable Part 1",
+      "lesson_id": "61a7020b0d0de97826cb34a3"
+    },
+    {
+      "title": "No-cloning of an unknown quantum state",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG3.mp4",
+      "module": "Quantum States and Qubits Part 10",
+      "chapter": "Two-qubit gates and observable Part 1",
+      "lesson_id": "61a7021a4b82e2b3ea61d416"
+    },
+    {
+      "title": "Bell basis",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG4.mp4",
+      "module": "Quantum States and Qubits Part 11",
+      "chapter": "Two-qubit gates and observable Part 2",
+      "lesson_id": "61a70260c65a75b3e37ee265"
+    },
+    {
+      "title": "Controlled-Z, SWAP, iSWAP gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG5.mp4",
+      "module": "Quantum States and Qubits Part 11",
+      "chapter": "Two-qubit gates and observable Part 2",
+      "lesson_id": "61a7026fc65a75b3e37ee266"
+    },
+    {
+      "title": "Ising coupling gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG6.mp4",
+      "module": "Quantum States and Qubits Part 11",
+      "chapter": "Two-qubit gates and observable Part 2",
+      "lesson_id": "61a702763496dcb3c20242b2"
+    },
+    {
+      "title": "A useful theorem for designing Controlled-U gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG7.mp4",
+      "module": "Quantum States and Qubits Part 12",
+      "chapter": "Two-qubit gates and observable Part 3",
+      "lesson_id": "61a7059d92986b782d6e80f7"
+    },
+    {
+      "title": "Important quantum subroutines",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG8.mp4",
+      "module": "Quantum States and Qubits Part 12",
+      "chapter": "Two-qubit gates and observable Part 3",
+      "lesson_id": "61a705a30d0de97826cb34a5"
+    },
+    {
+      "title": "Universal set of \u201cdiscrete\u201d gates for multi-qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG9.mp4",
+      "module": "Quantum States and Qubits Part 13",
+      "chapter": "Two-qubit gates and observable Part 4",
+      "lesson_id": "61a707fd92986b782d6e80f9"
+    },
+    {
+      "title": "Entanglement detection using Bell (correlation) measurement: Part 1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG10.mp4",
+      "module": "Quantum States and Qubits Part 13",
+      "chapter": "Two-qubit gates and observable Part 4",
+      "lesson_id": "61a7080516f7fb7810ce3b41"
+    },
+    {
+      "title": "Entanglement detection using Bell (correlation) measurement: Part 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG11.mp4",
+      "module": "Quantum States and Qubits Part 14",
+      "chapter": "Two-qubit gates and observable Part 5",
+      "lesson_id": "61a7064ec65a75b3e37ee268"
+    },
+    {
+      "title": "Total spin measurement",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG12.mp4",
+      "module": "Quantum States and Qubits Part 14",
+      "chapter": "Two-qubit gates and observable Part 5",
+      "lesson_id": "61a7065f4b82e2b3ea61d418"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/TQG11.mp4",
+      "module": "Quantum States and Qubits Part 15",
+      "chapter": "Multi-Qubit States (GHZ and W states)",
+      "lesson_id": "61a70b6c16f7fb7810ce3b42"
+    },
+    {
+      "title": "two qubit controlled gate",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/two+qubit+controlled+gate.mp4",
+      "module": "Quantum States and Qubits Part 15",
+      "chapter": "Multi-Qubit States (GHZ and W states)",
+      "lesson_id": "61a70b74c65a75b3e37ee26b"
+    },
+    {
+      "title": "two qubit controlled gates 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/two+qubit+controlled+gate+2.mp4",
+      "module": "Quantum States and Qubits Part 15",
+      "chapter": "Multi-Qubit States (GHZ and W states)",
+      "lesson_id": "61a70b7f0d0de97826cb34a8"
+    },
+    {
+      "title": "Toffolli Gate",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/toffolli+gate.mp4",
+      "module": "Quantum States and Qubits Part 15",
+      "chapter": "Multi-Qubit States (GHZ and W states)",
+      "lesson_id": "61a70b876f83deb3c314483c"
+    },
+    {
+      "title": "N qubit controlled gate",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/N+qubit+controlled+gate.mp4",
+      "module": "Quantum States and Qubits Part 15",
+      "chapter": "Multi-Qubit States (GHZ and W states)",
+      "lesson_id": "61a70b8ec65a75b3e37ee26c"
+    },
+    {
+      "title": "Quantum Circuit Model",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Circuit+Model.mp4",
+      "module": "Quantum States and Qubits Part 15",
+      "chapter": "Multi-Qubit States (GHZ and W states)",
+      "lesson_id": "61a70b980d0de97826cb34a9"
+    },
+    {
+      "title": "QpiAI Explorer Installation with aws-braket sdk",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Circuit+Model.mp4",
+      "module": "QpiAI Explorer Lab with Amazon Braket",
+      "chapter": "QpiAI Explorer Lab Installation with amazon-braket-sdk",
+      "lesson_id": "642ac6cdbbf091c6c931307b"
+    },
+    {
+      "title": "QpiAI Explorer Lab Amazon Braket Tutorial :  Bell's Inequality Test",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QpiAI+Explorer+Lab+Bell+state+on+amazon+braket+-+Made+with+Clipchamp+(1).mp4",
+      "module": "QpiAI Explorer Lab with Amazon Braket",
+      "chapter": "QpiAI Explorer Lab Amazon Braket Tutorial :  Bell's Inequality Test",
+      "lesson_id": "642ac882bbf091c6c931307e"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/introdution+1.mp4",
+      "module": "Quantum Algorithms Part 1",
+      "chapter": "Quantum Circuits",
+      "lesson_id": "61a70c8f92986b782d6e80fa"
+    },
+    {
+      "title": "Quantum Circuit",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Circuits+1.mp4",
+      "module": "Quantum Algorithms Part 1",
+      "chapter": "Quantum Circuits",
+      "lesson_id": "61a70c9716f7fb7810ce3b43"
+    },
+    {
+      "title": "Circuit Identities",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Circuits+1.mp4",
+      "module": "Quantum Algorithms Part 1",
+      "chapter": "Quantum Circuits",
+      "lesson_id": "61a70c9f4b82e2b3ea61d41b"
+    },
+    {
+      "title": "Bell State",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bell+State+1+.mp4",
+      "module": "Quantum Algorithms Part 1",
+      "chapter": "Quantum Circuits",
+      "lesson_id": "61a70ca775e888780a67968b"
+    },
+    {
+      "title": "W State",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bell+State+1+.mp4",
+      "module": "Quantum Algorithms Part 1",
+      "chapter": "Quantum Circuits",
+      "lesson_id": "61a70cb092986b782d6e80fb"
+    },
+    {
+      "title": "SWAP test",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SWAP+test+1.mp4",
+      "module": "Quantum Algorithms Part 1",
+      "chapter": "Quantum Circuits",
+      "lesson_id": "61a70cba16f7fb7810ce3b44"
+    },
+    {
+      "title": "Creating a framework to build quantum algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-1.mp4",
+      "module": "Quantum Algorithms Part 2",
+      "chapter": "Deutsch Algorithm Part 1",
+      "lesson_id": "61a70d6c3496dcb3c20242b7"
+    },
+    {
+      "title": "Setting up Deutsch Problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-2.mp4",
+      "module": "Quantum Algorithms Part 2",
+      "chapter": "Deutsch Algorithm Part 1",
+      "lesson_id": "61a70d744b82e2b3ea61d41c"
+    },
+    {
+      "title": "Functions as Oracles",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-3.mp4",
+      "module": "Quantum Algorithms Part 2",
+      "chapter": "Deutsch Algorithm Part 1",
+      "lesson_id": "61a70d7cc65a75b3e37ee26d"
+    },
+    {
+      "title": "Quantum Circuit U to implement function f(x)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-4.mp4",
+      "module": "Quantum Algorithms Part 2",
+      "chapter": "Deutsch Algorithm Part 1",
+      "lesson_id": "61a70d840d0de97826cb34ac"
+    },
+    {
+      "title": "Classical solution for solving the Deutsch Problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-5.mp4",
+      "module": "Quantum Algorithms Part 2",
+      "chapter": "Deutsch Algorithm Part 1",
+      "lesson_id": "61a70d8d75e888780a67968d"
+    },
+    {
+      "title": "Quantum query complexity",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-6.mp4",
+      "module": "Quantum Algorithms Part 2",
+      "chapter": "Deutsch Algorithm Part 1",
+      "lesson_id": "61a70d954b82e2b3ea61d41d"
+    },
+    {
+      "title": "Quantum phenomenon as a resource in algorithm design",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-7.mp4",
+      "module": "Quantum Algorithms Part 3",
+      "chapter": "Deutsch Algorithm Part 2",
+      "lesson_id": "61a70de40d0de97826cb34ad"
+    },
+    {
+      "title": "Building a quantum circuit to solve Deutsch Problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-8.mp4",
+      "module": "Quantum Algorithms Part 3",
+      "chapter": "Deutsch Algorithm Part 2",
+      "lesson_id": "61a70df94b82e2b3ea61d41f"
+    },
+    {
+      "title": "Deutsch Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-9.mp4",
+      "module": "Quantum Algorithms Part 3",
+      "chapter": "Deutsch Algorithm Part 2",
+      "lesson_id": "61a70e03c65a75b3e37ee26f"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/f-10.mp4",
+      "module": "Quantum Algorithms Part 3",
+      "chapter": "Deutsch Algorithm Part 2",
+      "lesson_id": "61a70e0c0d0de97826cb34ae"
+    },
+    {
+      "title": "Deutsch-Jozsa Problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/djaf-1.mp4",
+      "module": "Quantum Algorithms Part 4",
+      "chapter": "Deutsch-Jozsa Algorithm & Bernstein-Vazirani Algorithm",
+      "lesson_id": "61a70e8c3496dcb3c20242b9"
+    },
+    {
+      "title": "Deutsch-Jozsa Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/djaf-2.mp4",
+      "module": "Quantum Algorithms Part 4",
+      "chapter": "Deutsch-Jozsa Algorithm & Bernstein-Vazirani Algorithm",
+      "lesson_id": "61a70e9dc65a75b3e37ee270"
+    },
+    {
+      "title": "Summary for Deutsch-Jozsa Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/djaf-3.mp4",
+      "module": "Quantum Algorithms Part 4",
+      "chapter": "Deutsch-Jozsa Algorithm & Bernstein-Vazirani Algorithm",
+      "lesson_id": "61a70ea575e888780a67968f"
+    },
+    {
+      "title": "Bernstein-Vazirani Problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/bv-1.mp4",
+      "module": "Quantum Algorithms Part 4",
+      "chapter": "Deutsch-Jozsa Algorithm & Bernstein-Vazirani Algorithm",
+      "lesson_id": "61a70eec92986b782d6e80fc"
+    },
+    {
+      "title": "Bernstein-Vazirani Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/bv-1.mp4",
+      "module": "Quantum Algorithms Part 4",
+      "chapter": "Deutsch-Jozsa Algorithm & Bernstein-Vazirani Algorithm",
+      "lesson_id": "61a70eff75e888780a679690"
+    },
+    {
+      "title": "Summary for Bernstein-Vazirani Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/bv-3.mp4",
+      "module": "Quantum Algorithms Part 4",
+      "chapter": "Deutsch-Jozsa Algorithm & Bernstein-Vazirani Algorithm",
+      "lesson_id": "61a70f083496dcb3c20242bb"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/bv-3.mp4",
+      "module": "Quantum Algorithms Part 5",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 1",
+      "lesson_id": "61a7101d0d0de97826cb34af"
+    },
+    {
+      "title": "Modular (remainder) arithmetic and multiplicative group of co-primes",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA2.mp4",
+      "module": "Quantum Algorithms Part 5",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 1",
+      "lesson_id": "61a710266f83deb3c3144841"
+    },
+    {
+      "title": "RSA (Rivest\u2013Shamir\u2013Adleman) encryption",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA3.mp4",
+      "module": "Quantum Algorithms Part 5",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 1",
+      "lesson_id": "61a710354b82e2b3ea61d421"
+    },
+    {
+      "title": "RSA (Rivest\u2013Shamir\u2013Adleman) encryption: Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA4.mp4",
+      "module": "Quantum Algorithms Part 5",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 1",
+      "lesson_id": "61a7104c75e888780a679691"
+    },
+    {
+      "title": "Prime factorization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA5.mp4",
+      "module": "Quantum Algorithms Part 6",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 2",
+      "lesson_id": "61a710b50d0de97826cb34b0"
+    },
+    {
+      "title": "Prime factorization is equivalent to order finding",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA6.mp4",
+      "module": "Quantum Algorithms Part 6",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 2",
+      "lesson_id": "61a711620d0de97826cb34b2"
+    },
+    {
+      "title": "Quantum algorithm for order-finding",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA7.mp4",
+      "module": "Quantum Algorithms Part 6",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 2",
+      "lesson_id": "61a7116b75e888780a679693"
+    },
+    {
+      "title": "Discrete Fourier transform (DFT)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA8.mp4",
+      "module": "Quantum Algorithms Part 7",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 3",
+      "lesson_id": "61a714e10d0de97826cb34b4"
+    },
+    {
+      "title": "Fast Fourier transform (FFT)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA9.mp4",
+      "module": "Quantum Algorithms Part 7",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 3",
+      "lesson_id": "61a7150c0d0de97826cb34b5"
+    },
+    {
+      "title": "Quantum Fourier transform (QFT)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA10.mp4",
+      "module": "Quantum Algorithms Part 7",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 3",
+      "lesson_id": "61a715643496dcb3c20242be"
+    },
+    {
+      "title": "Unknown phase (eigenvalue) estimation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA11.mp4",
+      "module": "Quantum Algorithms Part 7",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 3",
+      "lesson_id": "61a7156d4b82e2b3ea61d426"
+    },
+    {
+      "title": "Amplitude estimation: Grover + Shor algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SA12.mp4",
+      "module": "Quantum Algorithms Part 7",
+      "chapter": "RSA encryption, Shor factoring algorithm, and quantum Fourier transform Part 3",
+      "lesson_id": "61a7158c75e888780a679695"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1_Introduction.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a7160116f7fb7810ce3b4c"
+    },
+    {
+      "title": "A digital haystack!",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2_A+digital+haystack.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a7160992986b782d6e80fe"
+    },
+    {
+      "title": "The Two steps.",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3_The+Two+steps.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a716110d0de97826cb34b7"
+    },
+    {
+      "title": "The two steps with qubits.",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4_The+two+steps+with+qubits.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a716183496dcb3c20242bf"
+    },
+    {
+      "title": "Grover's algorithm : Quantum circuit-1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5_Grovers+algorithm_Quantum+circuit_1.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a7162092986b782d6e80ff"
+    },
+    {
+      "title": "Grover's algorithm : Quantum circuit-2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6_Grovers+algorithm_Quantum+circuit_2.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a716294b82e2b3ea61d427"
+    },
+    {
+      "title": "Visualization and Applications",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7_Visualization+and+Applications.mp4",
+      "module": "Quantum Algorithms Part 8",
+      "chapter": "Quantum Database Search: Grover\u2019s Algorithm",
+      "lesson_id": "61a716330d0de97826cb34b8"
+    },
+    {
+      "title": "Bell State",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/bell+states.mp4",
+      "module": "Quantum Algorithms Part 9",
+      "chapter": "Circuit Simulation on QpiAI Explorer Software",
+      "lesson_id": "61d69eb5af0766f8ff2b5ee4"
+    },
+    {
+      "title": "Single Qubit Gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/multi+qubit+gates.mp4",
+      "module": "Quantum Algorithms Part 9",
+      "chapter": "Circuit Simulation on QpiAI Explorer Software",
+      "lesson_id": "61d69ec5d1301ff91a6fd8e0"
+    },
+    {
+      "title": "Multi Qubit Gates",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/single+qubit+gates.mp4",
+      "module": "Quantum Algorithms Part 9",
+      "chapter": "Circuit Simulation on QpiAI Explorer Software",
+      "lesson_id": "61d69ece08fb61f9216abb34"
+    },
+    {
+      "title": "Quantum Teleportation: Background",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QT-Background.mp4",
+      "module": "Quantum Protocols Part 1",
+      "chapter": "Quantum Teleportation Part 1",
+      "lesson_id": "6173fb065b433835173545f1"
+    },
+    {
+      "title": "Quantum Teleportation: Theory",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QT-Theory.mp4",
+      "module": "Quantum Protocols Part 2",
+      "chapter": "Quantum Teleportation Part 2",
+      "lesson_id": "6173fc6b5b433835173545f2"
+    },
+    {
+      "title": "Superdense Coding: Background",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SC-Background.mp4",
+      "module": "Quantum Protocols Part 3",
+      "chapter": "Superdense Coding Part 1",
+      "lesson_id": "6173fe7489cfe234f7da442f"
+    },
+    {
+      "title": "Superdense Coding: Theory",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SC-Theory.mp4",
+      "module": "Quantum Protocols Part 4",
+      "chapter": "Superdense Coding Part 2",
+      "lesson_id": "6173fe9bc3e6f84b19163087"
+    },
+    {
+      "title": "Quantum Teleportation: Explorer Demo",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SC-Explorer+Demo.mp4",
+      "module": "Quantum Protocols Part 5",
+      "chapter": "Simulation of QpiAI Explorer Software",
+      "lesson_id": "6173fefc5b433835173545f4"
+    },
+    {
+      "title": "Superdense Coding: Explorer Demo",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QT-Explorer+Demo.mp4",
+      "module": "Quantum Protocols Part 5",
+      "chapter": "Simulation of QpiAI Explorer Software",
+      "lesson_id": "6173ff048c408c34fd7f8b07"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Video_1_Introduction.mp4",
+      "module": "Quantum Protocols Part 6",
+      "chapter": "Quantum Cryptography and Key Distribution",
+      "lesson_id": "6173ff616bb4074b3931e8e5"
+    },
+    {
+      "title": "Diffie\u2013Hellman key exchange",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Video_2_Diffie-Hellman.mp4",
+      "module": "Quantum Protocols Part 6",
+      "chapter": "Quantum Cryptography and Key Distribution",
+      "lesson_id": "6173ff698cc217351ef03a89"
+    },
+    {
+      "title": "RSA Encryption",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Video_3_RSA_Encryption.mp4",
+      "module": "Quantum Protocols Part 6",
+      "chapter": "Quantum Cryptography and Key Distribution",
+      "lesson_id": "6173ff705b433835173545f5"
+    },
+    {
+      "title": "QKD Basics",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Video_4_QKD_Basics.mp4",
+      "module": "Quantum Protocols Part 6",
+      "chapter": "Quantum Cryptography and Key Distribution",
+      "lesson_id": "6173ff7b8c408c34fd7f8b08"
+    },
+    {
+      "title": "Quantum: BB84 protocol",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Video_5_Quantum_BB84+protocol.mp4",
+      "module": "Quantum Protocols Part 6",
+      "chapter": "Quantum Cryptography and Key Distribution",
+      "lesson_id": "6173ff868cc217351ef03a8a"
+    },
+    {
+      "title": "QKD: Practical Implementations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Video_5_Quantum_BB84+protocol.mp4",
+      "module": "Quantum Protocols Part 6",
+      "chapter": "Quantum Cryptography and Key Distribution",
+      "lesson_id": "6173ff925b433835173545f6"
+    },
+    {
+      "title": "Guest Lecture - QKD, Communications",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QpiAI-March-2021-1.m4v",
+      "module": "Quantum Protocols Part 8",
+      "chapter": "Guest Lecture - QKD, Communications",
+      "lesson_id": "617400cd8cc217351ef03a8b"
+    },
+    {
+      "title": "Noise Models: Noise and relevance for NISQ era",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/NM-Background.mp4",
+      "module": "NISQ Devices Part 1",
+      "chapter": "NISQ Models",
+      "lesson_id": "61e4ecef915a41d6192ecd21"
+    },
+    {
+      "title": "Noise Models: Modeling Noise in Quantum",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/02-NM-Modeling+Noise+in+Quantum.mp4",
+      "module": "NISQ Devices Part 1",
+      "chapter": "NISQ Models",
+      "lesson_id": "61e4ed030de2cdd635d4953f"
+    },
+    {
+      "title": "Quantum Error Mitigation: Bit Flip Error",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/01-QEM-Bit+Flip.mp4",
+      "module": "NISQ Devices Part 2",
+      "chapter": "Quantum Error Mitigation",
+      "lesson_id": "61e4ed75eac1c654495b9ce2"
+    },
+    {
+      "title": "Quantum Error Mitigation: Phase Flip Error",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/02-QEM-Phase+Flip.mp4",
+      "module": "NISQ Devices Part 2",
+      "chapter": "Quantum Error Mitigation",
+      "lesson_id": "61e4edc70de2cdd635d49541"
+    },
+    {
+      "title": "Quantum Error Mitigation: Shor Code",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/03-QEM-Shor+Code.mp4",
+      "module": "NISQ Devices Part 2",
+      "chapter": "Quantum Error Mitigation",
+      "lesson_id": "61e4ede1915a41d6192ecd22"
+    },
+    {
+      "title": "Quantum volume and others",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Volume+and+cousins.mp4",
+      "module": "NISQ Devices Part 3",
+      "chapter": "Quantum Volume and Performance Metrics",
+      "lesson_id": "61e4ee47eac1c654495b9ce3"
+    },
+    {
+      "title": "Hybrid Quantum-Classical Computing",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/hqc-1.mp4",
+      "module": "NISQ Devices Part 4",
+      "chapter": "Hybrid Quantum-Classical Computing",
+      "lesson_id": "61e4ee7ccb6780544872f23e"
+    },
+    {
+      "title": "Noisy Intermediate-scale Quantum Computing (NISQ) Devices and Computing",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/hqc-2.mp4",
+      "module": "NISQ Devices Part 4",
+      "chapter": "Hybrid Quantum-Classical Computing",
+      "lesson_id": "61e4ee831a4b38546848812f"
+    },
+    {
+      "title": "Hybrid Strategy I : Circuit Decompositions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/hqc-3.mp4",
+      "module": "NISQ Devices Part 4",
+      "chapter": "Hybrid Quantum-Classical Computing",
+      "lesson_id": "61e4ee8beac1c654495b9ce4"
+    },
+    {
+      "title": "Hybrid Strategy II : Hybrid Quantum-Classical Variational Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/hqc-4.mp4",
+      "module": "NISQ Devices Part 4",
+      "chapter": "Hybrid Quantum-Classical Computing",
+      "lesson_id": "61e4ee954f63365473989686"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Introduction.mp4",
+      "module": "Quantum Algorithms for Applications Part 1",
+      "chapter": "Quantum Inspired Computing",
+      "lesson_id": "61e4f09bcb6780544872f240"
+    },
+    {
+      "title": "Ising Model",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Ising+Model.mp4",
+      "module": "Quantum Algorithms for Applications Part 1",
+      "chapter": "Quantum Inspired Computing",
+      "lesson_id": "61e4f0a2915a41d6192ecd24"
+    },
+    {
+      "title": "Quantum Annealing",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+Annealing.mp4",
+      "module": "Quantum Algorithms for Applications Part 1",
+      "chapter": "Quantum Inspired Computing",
+      "lesson_id": "61e4f0aa5c9cf5d63b01e457"
+    },
+    {
+      "title": "Simulated Annealing",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Simulated+Annealing+1.mp4",
+      "module": "Quantum Algorithms for Applications Part 1",
+      "chapter": "Quantum Inspired Computing",
+      "lesson_id": "61e4f0b40de2cdd635d49546"
+    },
+    {
+      "title": "Tensor Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Tensor+Networks+1.mp4",
+      "module": "Quantum Algorithms for Applications Part 1",
+      "chapter": "Quantum Inspired Computing",
+      "lesson_id": "61e4f0bd4f63365473989688"
+    },
+    {
+      "title": "Introduction to Variational Quantum Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-1f.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f176cb6780544872f241"
+    },
+    {
+      "title": "Outline of VQAs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-2f.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f17e915a41d6192ecd25"
+    },
+    {
+      "title": "Building blocks of a variational quantum algorithm (1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-3f.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f18beac1c654495b9ce7"
+    },
+    {
+      "title": "Building blocks of a variational quantum algorithm (2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-4f.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f1944f6336547398968a"
+    },
+    {
+      "title": "Setup: Variational quantum algorithm (VQA)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-5.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f19d1a4b385468488133"
+    },
+    {
+      "title": "VQA Example: VQE and QAOA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-6.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f1a65c9cf5d63b01e458"
+    },
+    {
+      "title": "Challenge: Barren Plateaus",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-7.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f1b10de2cdd635d49547"
+    },
+    {
+      "title": "Current-generation application landscape for VQAs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-8.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f1bb915a41d6192ecd26"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-9.mp4",
+      "module": "Quantum Algorithms for Applications Part 2",
+      "chapter": "Variational Quantum Algorithms",
+      "lesson_id": "61e4f1cd0de2cdd635d49548"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Introduction+(1).mp4",
+      "module": "Quantum Algorithms for Applications Part 3",
+      "chapter": "Variational Quantum Eigensolver",
+      "lesson_id": "61e4f2de2587d9d61af0562e"
+    },
+    {
+      "title": "Hybrid Quantum Classical Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Hybrid+quantum+classical+algorithms.mp4",
+      "module": "Quantum Algorithms for Applications Part 3",
+      "chapter": "Variational Quantum Eigensolver",
+      "lesson_id": "61e4f2e7915a41d6192ecd28"
+    },
+    {
+      "title": "Variational Quantum Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Hybrid+quantum+classical+algorithms.mp4",
+      "module": "Quantum Algorithms for Applications Part 3",
+      "chapter": "Variational Quantum Eigensolver",
+      "lesson_id": "61e4f2f15c9cf5d63b01e459"
+    },
+    {
+      "title": "Variational Quantum Eigensolver",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Variational+Quantum+EigenSolver.mp4",
+      "module": "Quantum Algorithms for Applications Part 3",
+      "chapter": "Variational Quantum Eigensolver",
+      "lesson_id": "61e4f2fa0de2cdd635d49549"
+    },
+    {
+      "title": "Electronic Structure Problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Electronic+Structure+Problem+1.mp4",
+      "module": "Quantum Algorithms for Applications Part 3",
+      "chapter": "Variational Quantum Eigensolver",
+      "lesson_id": "61e4f3042587d9d61af0562f"
+    },
+    {
+      "title": "Barren Plateus",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/vqa-7.mp4",
+      "module": "Quantum Algorithms for Applications Part 3",
+      "chapter": "Variational Quantum Eigensolver",
+      "lesson_id": "61e4f3104f6336547398968d"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA1.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f3c54f6336547398968f"
+    },
+    {
+      "title": "The Combinatorial Optimization Problem (COP) \u2261 QUBO (part 1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA2.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f3cd1a4b385468488136"
+    },
+    {
+      "title": "The Combinatorial Optimization Problem (COP) \u2261 QUBO (part 2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA3.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f3dd915a41d6192ecd29"
+    },
+    {
+      "title": "Quantum formulation of the COP",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA4.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f40d4f63365473989690"
+    },
+    {
+      "title": "Quantum Approximate Optimization Algorithm (QAOA) for the COP",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA5.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f448cb6780544872f243"
+    },
+    {
+      "title": "Single (p = 1) layer QAOA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA6.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f454eac1c654495b9cea"
+    },
+    {
+      "title": "Single (p = 1) layer QAOA for n = 3 qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA7.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f46c4f63365473989691"
+    },
+    {
+      "title": "Computing gradient on a quantum computer by the parameter sift rule",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA8.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f486eac1c654495b9ceb"
+    },
+    {
+      "title": "Traveling Salesman Problem (TSP)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA9.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f4a30de2cdd635d4954b"
+    },
+    {
+      "title": "Quantum (QAOA) formulation of the TSP",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QAOA10.mp4",
+      "module": "Quantum Algorithms for Applications Part 4",
+      "chapter": "Quantum Approximate Optimization Algorithm",
+      "lesson_id": "61e4f4accb6780544872f245"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml1f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f5235c9cf5d63b01e45c"
+    },
+    {
+      "title": "Why QML",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml2f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f52a0de2cdd635d4954c"
+    },
+    {
+      "title": "Quantum models of ML algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml3f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f53a915a41d6192ecd2a"
+    },
+    {
+      "title": "Variational quantum machine learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml4f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f5415c9cf5d63b01e45d"
+    },
+    {
+      "title": "Building neural networks in quantum model",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml5f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f54a4f63365473989692"
+    },
+    {
+      "title": "A single-qubit neural network",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml5f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f5510de2cdd635d4954e"
+    },
+    {
+      "title": "A single-qubit neural network for classification problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml7f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f559eac1c654495b9cec"
+    },
+    {
+      "title": "Hybrid quantum-classical neural network for molecular energy problem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml8f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f563915a41d6192ecd2b"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/qml9f.mp4",
+      "module": "Quantum Algorithms for Applications Part 5",
+      "chapter": "Quantum Machine Learning: QNNs",
+      "lesson_id": "61e4f5751a4b385468488139"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL1.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f63e915a41d6192ecd2c"
+    },
+    {
+      "title": "A system of linear equations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL2.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f6464f63365473989693"
+    },
+    {
+      "title": "The HHL quantum algorithm (Steps 1 and 2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL3.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f655cb6780544872f246"
+    },
+    {
+      "title": "The HHL quantum algorithm (Steps 3-5)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL4.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f65eeac1c654495b9ced"
+    },
+    {
+      "title": "The HHL quantum algorithm (fine details)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL5.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f6694f63365473989694"
+    },
+    {
+      "title": "Data Loading : State Preparation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL6.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f6741a4b38546848813c"
+    },
+    {
+      "title": "The HHL quantum algorithm: an example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/HHL7.mp4",
+      "module": "Quantum Algorithms for Applications Part 6",
+      "chapter": "HHL quantum algorithm for solving a system of linear equations",
+      "lesson_id": "61e4f689eac1c654495b9cee"
+    },
+    {
+      "title": "Introduction to physical qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Introduction+to+physical+qubits.mp4",
+      "module": "Quantum Hardware: Superconducting Qubits Part 1",
+      "chapter": "Introduction to physical qubits",
+      "lesson_id": "61e4f75a0de2cdd635d49551"
+    },
+    {
+      "title": "Superconducting Qubits and circuit Quantum Electrodynamics (cQED)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QPiAI_SCQubits_Lec2_BalaSuri.mp4",
+      "module": "Quantum Hardware: Superconducting Qubits Part 2",
+      "chapter": "Superconducting Qubits and circuit Quantum Electrodynamics (cQED)",
+      "lesson_id": "61e4f7dceac1c654495b9cf0"
+    },
+    {
+      "title": "Control and Readout of Transmon Qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QPiAI_SCQubits_Lec2_BalaSuri.mp4",
+      "module": "Quantum Hardware: Superconducting Qubits Part 3",
+      "chapter": "Control and Readout of a Transmon Qubit",
+      "lesson_id": "61e4f86aeac1c654495b9cf1"
+    },
+    {
+      "title": "Superconducting Quantum Processor and Scalability",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QPiAI_SCQubits_Lec4_BalaSuri.mp4",
+      "module": "Quantum Hardware: Superconducting Qubits Part 4",
+      "chapter": "Superconducting Quantum Processor and Scalability",
+      "lesson_id": "61e4f924eac1c654495b9cf2"
+    },
+    {
+      "title": "Introduction to Semiconducting Qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QPiAI_SCQubits_Lec4_BalaSuri.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 1",
+      "chapter": "Introduction to physical qubits",
+      "lesson_id": "61e4fa0ecb6780544872f24b"
+    },
+    {
+      "title": "Introduction to Quantum Dots",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Introduction+to+quantum+dots.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 2",
+      "chapter": "Quantum Dots and Scalability",
+      "lesson_id": "61e4facd915a41d6192ecd2f"
+    },
+    {
+      "title": "Quantum Dots and scalability",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+dots+and+scalability.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 2",
+      "chapter": "Quantum Dots and Scalability",
+      "lesson_id": "61e4fadecb6780544872f24c"
+    },
+    {
+      "title": "Quantum dots and charge qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Quantum+dots+and+charge+qubits.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 3",
+      "chapter": "Charge Qubits",
+      "lesson_id": "61e4fb27cb6780544872f24d"
+    },
+    {
+      "title": "QD Charge readout and reset",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/QD+Charge+readout+and+reset.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 3",
+      "chapter": "Charge Qubits",
+      "lesson_id": "61e4fb304f6336547398969a"
+    },
+    {
+      "title": "Semiconducting spin qubits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Semiconducting+spin+qubits.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 4",
+      "chapter": "Spin Qubits",
+      "lesson_id": "61e4fc2beac1c654495b9cf5"
+    },
+    {
+      "title": "Spin readout",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Spin+readout.mp4",
+      "module": "Quantum Hardware: Semiconducting Qubits Part 4",
+      "chapter": "Spin Qubits",
+      "lesson_id": "61e4fc324f6336547398969b"
+    },
+    {
+      "title": "Intuition and Aim of the Refresher Course in Linear Algebra",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+0+Intuition+and+Aim+of+the+Refresher+Course+in+Linear+Algebra.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281c973a4ed28ac1fd33a2"
+    },
+    {
+      "title": "Introduction to Vectors and it's Significance",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+1.1+Intro+to+Vectors.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281ca23a4ed28ac1fd33a3"
+    },
+    {
+      "title": "Basic Vector Operations and Terminologies",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+1.2+Basic+Vector+Operations+and+Terminologies.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281cacbb8b9e8ac30284c0"
+    },
+    {
+      "title": "Linearly Dependent Vectors",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+1.3+Linearly+Dependent+Vectors.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281cb8b736ae8aa6c43907"
+    },
+    {
+      "title": "Intro to Matrices",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+2.1+Intro+to+Matrices.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281cc63a4ed28ac1fd33a4"
+    },
+    {
+      "title": "Operations on Matrices",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+2.2+Operations+on+Matrices+.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281ccfbb8b9e8ac30284c1"
+    },
+    {
+      "title": "Special Matrices and Matrix Inverse",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+2.3+Special+Matrices+and+Matrix+Inverse.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281cf5b736ae8aa6c43908"
+    },
+    {
+      "title": "Linear Transformations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+3+linear+transformation.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281cfd87a6b38aa5376b9c"
+    },
+    {
+      "title": "Linear Transformation and Change of Basis",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+3+linear+transformation.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d063a4ed28ac1fd33a5"
+    },
+    {
+      "title": "Eigenvectors and Eigenvalues",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+5+Eigenvectors+and+Eigenvalues.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d13bb8b9e8ac30284c2"
+    },
+    {
+      "title": "Inner product",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+5+Eigenvectors+and+Eigenvalues.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d20b736ae8aa6c43909"
+    },
+    {
+      "title": "Singular Value Decomposition",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Lec+7+Singular+Value+Decomposition.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d2a87a6b38aa5376b9d"
+    },
+    {
+      "title": "Bonus: Unitary Operators",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bouns_+Unitary+Operators.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d363a4ed28ac1fd33a6"
+    },
+    {
+      "title": "Bonus: Diagonalisation (part 1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bonus_+Diagonalisation+(part+1).mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d40bb8b9e8ac30284c3"
+    },
+    {
+      "title": "Bonus: Diagonalisation (part 2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bonus_+Diagonalisation+(part+2).mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d4ab736ae8aa6c4390a"
+    },
+    {
+      "title": "Bonus: Singular Value Decomposition",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Bonus_+Singular+Value+Decomposition.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Introduction to Linear Algebra",
+      "lesson_id": "63281d5487a6b38aa5376b9e"
+    },
+    {
+      "title": "Introduction to Probability",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a7ed5595a93be14770080"
+    },
+    {
+      "title": "Algebra of Events",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Algebra+of+Events.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a811f0826e4bde2925c36"
+    },
+    {
+      "title": "Algebra of Events Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Algebra+of+Events+Example.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a814a25f855bddc04df2a"
+    },
+    {
+      "title": "Mutually Exclusive and Exhaustive Events",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Mutually+Exclusive+and+Exhaustive.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a821125f855bddc04df2b"
+    },
+    {
+      "title": "Conditional Probability",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Conditional+Probability.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8248253934be1aa6895d"
+    },
+    {
+      "title": "Conditional Probability Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Conditional+Probability+Example.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a826f253934be1aa6895e"
+    },
+    {
+      "title": "Independence of Events",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Independence+of+Events.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a829125f855bddc04df2c"
+    },
+    {
+      "title": "Random Variables",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Random+Variables.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a82ae253934be1aa6895f"
+    },
+    {
+      "title": "Continuous and Discrete Random Variables",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Random+Variables.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a82d0595a93be14770083"
+    },
+    {
+      "title": "Probability Mass Function",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.9+Probability+Mass+Function.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a82ea0826e4bde2925c37"
+    },
+    {
+      "title": "Cumulative Distribution Function",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.10+Cumulative+Distribution+Function.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a830d25f855bddc04df2e"
+    },
+    {
+      "title": "Probability Density Function",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.11+Probability+Density+Function.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a832e253934be1aa68960"
+    },
+    {
+      "title": "Cumulative Density Function",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.12+Cumulative+Density+Function.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a835225f855bddc04df2f"
+    },
+    {
+      "title": "Joint Random Variables: Discrete",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.13+Joint+RV+Discrete.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a837525f855bddc04df30"
+    },
+    {
+      "title": "Joint Random Variables: Continuous",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.14+Joint+RV+Continuous.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a83f9595a93be14770084"
+    },
+    {
+      "title": "Joint Random Variables: Continuous Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.14+Joint+RV+Continuous.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a841c0826e4bde2925c39"
+    },
+    {
+      "title": "Independent Random Variables",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.16+Independent+RV.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8450253934be1aa68961"
+    },
+    {
+      "title": "Conditional Distributions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.17+Conditional+Distributions.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a846b595a93be14770085"
+    },
+    {
+      "title": "Expectation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.18+Expectation.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8489595a93be14770086"
+    },
+    {
+      "title": "Variance",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.19+Variance.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a84aa253934be1aa68963"
+    },
+    {
+      "title": "Covariance",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.19+Variance.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a84d90826e4bde2925c3a"
+    },
+    {
+      "title": "Correlation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.21+Correlation.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8500595a93be14770087"
+    },
+    {
+      "title": "Covariance Matrix",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.22+Covariance+Matrix.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a851e253934be1aa68964"
+    },
+    {
+      "title": "Special RV: Bernoulli",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.23+Bernoulli.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a85420826e4bde2925c3b"
+    },
+    {
+      "title": "Binomial Distribution",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.24+Binomial.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a855d25f855bddc04df32"
+    },
+    {
+      "title": "Poisson Distribution",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.24+Binomial.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a857925f855bddc04df33"
+    },
+    {
+      "title": "Normal Distribution",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.26+Normal.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a859425f855bddc04df34"
+    },
+    {
+      "title": "Multivariate Normal Distribution",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.27+Multivariate+Normal.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a85ad25f855bddc04df35"
+    },
+    {
+      "title": "Skewness",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.28+Skewness.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a85c7253934be1aa68965"
+    },
+    {
+      "title": "Kurtosis",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.29+Kurtosis.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a85de595a93be14770088"
+    },
+    {
+      "title": "Expectation and Variance Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.30+Expectation+Variance+Example.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8614595a93be14770089"
+    },
+    {
+      "title": "Bayes' Theorem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.31+Bayes'+Theorem.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8645253934be1aa68966"
+    },
+    {
+      "title": "Bayes' Theorem Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.32+Bayes'+Theorem+Example.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a866d253934be1aa68967"
+    },
+    {
+      "title": "Introduction to Central Limit Theorem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.33+Introduction+to+Central+Limit+Theorem.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a86a0253934be1aa68968"
+    },
+    {
+      "title": "Central Limit Theorem Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.34+CLT+Examples.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a86bc253934be1aa68969"
+    },
+    {
+      "title": "Hypothesis Testing",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.35+Hypothesis+Testing.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a86dc0826e4bde2925c3d"
+    },
+    {
+      "title": "Hypothesis Testing Possible Outcomes",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.37+Hypothesis+Testing+Possible+Outcomes.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a86f8253934be1aa6896a"
+    },
+    {
+      "title": "Hypothesis Testing: Step 1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.38+HT+Step+1.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8717253934be1aa6896b"
+    },
+    {
+      "title": "Hypothesis Testing: Step 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.39+HT+Step+2.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a873f595a93be1477008a"
+    },
+    {
+      "title": "Hypothesis Testing: Step 3",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.40+HT+Step+3.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8759595a93be1477008b"
+    },
+    {
+      "title": "Hypothesis Testing: Step 4",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.41+HT+Step+4.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a876e253934be1aa6896c"
+    },
+    {
+      "title": "Hypothesis Testing Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.42+HT+Example.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Basics of Probability and Statistics",
+      "lesson_id": "616a8786595a93be1477008c"
+    },
+    {
+      "title": "Sets",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q1+-+Sets.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8813253934be1aa6896d"
+    },
+    {
+      "title": "Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q+2+and+3-Functions.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a89380826e4bde2925c3e"
+    },
+    {
+      "title": "Derivative",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q+2+and+3-Functions.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a894c595a93be1477008e"
+    },
+    {
+      "title": "Derivative tests for local minimum/maximum",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q7-Derivative+Tests+for+local+minimum_maximum.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8a33253934be1aa6896e"
+    },
+    {
+      "title": "Gradient of a multi-variable function",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q+8+and+9.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8a76595a93be1477008f"
+    },
+    {
+      "title": "Gradient descent for local minimum",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q+10+and+11-Gradient+descent+for+local+minimum.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8a8f253934be1aa6896f"
+    },
+    {
+      "title": "Newton\u2019s method for local minimum",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q12.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8ab10826e4bde2925c3f"
+    },
+    {
+      "title": "Derivatives of linear transformation and quadratic form",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q+13+14+and+15.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8ad3595a93be14770090"
+    },
+    {
+      "title": "Integration",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q+16+and+17.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8ae7253934be1aa68970"
+    },
+    {
+      "title": "Integration and differentiation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q18.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8afb25f855bddc04df36"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Q19.mp4",
+      "module": "Prerequisites for Artificial Intelligence",
+      "chapter": "Calculus and Optimization",
+      "lesson_id": "616a8b1f253934be1aa68971"
+    },
+    {
+      "title": "Introduction to Machine Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Introduction+to+Machine+Learning.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Introduction to Machine Learning, Supervised and Unsupervised techniques",
+      "lesson_id": "616aa2ef25f855bddc04df39"
+    },
+    {
+      "title": "Data Types, Classification and Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Data+Types%2C+Classification+and+Regression+(1).mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Introduction to Machine Learning, Supervised and Unsupervised techniques",
+      "lesson_id": "616aa30d0826e4bde2925c40"
+    },
+    {
+      "title": "Classification and Regression Examples",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Classification+Regression+Example+(1).mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Introduction to Machine Learning, Supervised and Unsupervised techniques",
+      "lesson_id": "616aa3460826e4bde2925c41"
+    },
+    {
+      "title": "Motivation for Linear Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Motivation+for+Linear+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Linear and Multiple Linear Regression, Performance Metrics, Regularization",
+      "lesson_id": "616aa4b4253934be1aa68973"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Motivation+for+Linear+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Linear and Multiple Linear Regression, Performance Metrics, Regularization",
+      "lesson_id": "616aa4cf253934be1aa68974"
+    },
+    {
+      "title": "Regression Performance Metrics",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Regression+Performance+Metrics.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Linear and Multiple Linear Regression, Performance Metrics, Regularization",
+      "lesson_id": "616aa4f9595a93be14770091"
+    },
+    {
+      "title": "Assumptions of Linear Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Assumptions+of+Linear+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Linear and Multiple Linear Regression, Performance Metrics, Regularization",
+      "lesson_id": "616aa510595a93be14770092"
+    },
+    {
+      "title": "Linear Regression Practise",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Assumptions+of+Linear+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Linear and Multiple Linear Regression, Performance Metrics, Regularization",
+      "lesson_id": "617289a26894201307174ce9"
+    },
+    {
+      "title": "Classification and Introduction to Logistic Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Classification+and+Introduction+to+Logistic+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa569253934be1aa68975"
+    },
+    {
+      "title": "Why we cannot use Linear Regression for Classification",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Why+we+cannot+use+Linear+Regression+for+Classification.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa58425f855bddc04df3a"
+    },
+    {
+      "title": "Understanding Logistic Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Understanding+Logistic+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa59e595a93be14770093"
+    },
+    {
+      "title": "Interpreting Odds and Probabilities",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Interpreting+Odds+and+Probabilities.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa5b6595a93be14770094"
+    },
+    {
+      "title": "Multiple Logistic Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.+Multiple+Logistic+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa5cd253934be1aa68976"
+    },
+    {
+      "title": "Loss Function",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.+Loss+Function.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa5e425f855bddc04df3b"
+    },
+    {
+      "title": "Regularization for Logistic Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Regularization+for+Logistic+Regression.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa5f8253934be1aa68977"
+    },
+    {
+      "title": "Introduction to KNN and Examples",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/8.+Introduction+to+KNN+and+Examples.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa6110826e4bde2925c42"
+    },
+    {
+      "title": "KNN Algorithm and Selecting ideal K",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+KNN+Algorithm+and+Selecting+ideal+K.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa62f595a93be14770095"
+    },
+    {
+      "title": "Distance Measures",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+KNN+Algorithm+and+Selecting+ideal+K.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa6440826e4bde2925c43"
+    },
+    {
+      "title": "Analysis, Limitations and Conclusion",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/11.+Analysis%2C+Limitations+and+Conclusion.mp4",
+      "module": "Machine Learning Part 1",
+      "chapter": "Classification Models: KNN, Logistic Regression",
+      "lesson_id": "616aa665253934be1aa68978"
+    },
+    {
+      "title": "Introduction to SVM",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SVM+1+-+Introduction+to+SVM.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "62bd8d1387a6b38aa53765f0"
+    },
+    {
+      "title": "SVM - Linear Decision Boundary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SVM+2+-+Linear+Decision+Boundary.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "62bdac283a4ed28ac1fd2e25"
+    },
+    {
+      "title": "SVM - Non Linear Decision Boundary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/SVM+3+-+Non+Linear+Decision+Boundary.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "62bdacf9bb8b9e8ac3027f24"
+    },
+    {
+      "title": "Understanding Confusion Matrix",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.1+Understanding+Confusion+Matrix.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "616aab4525f855bddc04df40"
+    },
+    {
+      "title": "Classification Metrics",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.2+Classification+Metrics.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "616aab5a253934be1aa68982"
+    },
+    {
+      "title": "ROC Curves and AUC-ROC Score",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.3+ROC+Curves+and+AUC-ROC+Score.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "616aab71595a93be1477009f"
+    },
+    {
+      "title": "ROC Curves and Predicted Probability Distributions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.4+ROC+Curves+and+Predicted+Probability+Distributions.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "616aab89595a93be147700a0"
+    },
+    {
+      "title": "F1 Score",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.4+ROC+Curves+and+Predicted+Probability+Distributions.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Support Vector Machines; Classification Performance Metrics",
+      "lesson_id": "616aab9c595a93be147700a1"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+(1).mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aabe5595a93be147700a2"
+    },
+    {
+      "title": "Entropy",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Entropy.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aabfa595a93be147700a3"
+    },
+    {
+      "title": "Information Gain",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Information+Gain.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac0f0826e4bde2925c48"
+    },
+    {
+      "title": "Building a Decision Tree",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Building+a+Decision+Tree.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac2a0826e4bde2925c49"
+    },
+    {
+      "title": "Gini Index",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Gini+Index.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac440826e4bde2925c4a"
+    },
+    {
+      "title": "Pros and Cons of Decision Trees",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Pros+and+Cons+of+Decision+Trees.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac5725f855bddc04df41"
+    },
+    {
+      "title": "Comparison with other Classification Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.9+Comparison+with+other+Classification+Algorithms.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac7125f855bddc04df42"
+    },
+    {
+      "title": "Decision Tree Hyperparameters",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Decision+Tree+Hyperparameters.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac88253934be1aa68983"
+    },
+    {
+      "title": "Ensembling and Bootstrap Aggregation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.10+Ensembling+and+Bootstrap+Aggregation.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aac9d0826e4bde2925c4b"
+    },
+    {
+      "title": "Random Forest",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.11+Random+Forest.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aacb10826e4bde2925c4c"
+    },
+    {
+      "title": "Random Forest Hyperparameters",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.12+Random+Forest+Hyperparameters.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aacc525f855bddc04df43"
+    },
+    {
+      "title": "Boosting and AdaBoost",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.13+Boosting+and+AdaBoost.mp4",
+      "module": "Machine Learning Part 2",
+      "chapter": "Decision Trees, Bagging, Boosting and Ensemble Algorithms",
+      "lesson_id": "616aace2253934be1aa68984"
+    },
+    {
+      "title": "Introduction to Clustering",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Clustering.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Clustering: K-Means Clustering",
+      "lesson_id": "616aae5c253934be1aa68988"
+    },
+    {
+      "title": "K-Means Clustering",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+K-Means+Clustering.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Clustering: K-Means Clustering",
+      "lesson_id": "616aae750826e4bde2925c50"
+    },
+    {
+      "title": "Choosing the Right 'k'",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Choosing+the+Right+'k'.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Clustering: K-Means Clustering",
+      "lesson_id": "616aae870826e4bde2925c51"
+    },
+    {
+      "title": "Disadvantages of K-Means Clustering",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Disadvantages+of+K-Means+Clustering.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Clustering: K-Means Clustering",
+      "lesson_id": "616aae9d0826e4bde2925c52"
+    },
+    {
+      "title": "Introduction to Unsupervised Learning, Manifold Learning and PCA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Unsupervised+Learning%2C+Manifold+Learning+and+PCA.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aad1f25f855bddc04df44"
+    },
+    {
+      "title": "Introdcution to Principal Component Analysis and Problem Formulation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Introduction+to+Principal+Component+Analysis+and+Problem+Formulation.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aad340826e4bde2925c4d"
+    },
+    {
+      "title": "Review of Linear Algebra Part 1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Review+of+Linear+Algebra+Part+1.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aad610826e4bde2925c4e"
+    },
+    {
+      "title": "Review of Linear Algebra Part 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Review+of+Linear+Algebra+Part+2.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aad8925f855bddc04df45"
+    },
+    {
+      "title": "Finding the Principal Components Approach 1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Finding+the+Principal+Components+Approach+1.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aad9c253934be1aa68986"
+    },
+    {
+      "title": "Finding the Principal Components Approach 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Finding+the+Principal+Components+Approach+2.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aadae0826e4bde2925c4f"
+    },
+    {
+      "title": "Understanding Mathematical Formulation of PCA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Understanding+Mathematical+Formulation+of+PCA.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aadc6253934be1aa68987"
+    },
+    {
+      "title": "Applications and Limitations of PCA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Applications+and+Limitations+of+PCA.mp4",
+      "module": "Machine Learning Part 3",
+      "chapter": "Dimensionality Reduction: PCA",
+      "lesson_id": "616aade3595a93be147700a4"
+    },
+    {
+      "title": "Introduction to Deep Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Deep+Learning.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "61739692b7f60412edc5f080"
+    },
+    {
+      "title": "Biological inspiration of an Artificial Neuron",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Biological+inspiration+of+an+Artificial+Neuron.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "617396bbd3095c2941f2f32e"
+    },
+    {
+      "title": "Activation Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Activation+Functions.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "617396e3d3095c2941f2f32f"
+    },
+    {
+      "title": "Basic Architecture of Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Basic+Architecture+of+Neural+Networks.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "61739709b273d92921887798"
+    },
+    {
+      "title": "Motivating Example of a Linear Classifier",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Motivating+Example+of+a+Linear+Classifier+(1).mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "6173974fd17ef529489e204c"
+    },
+    {
+      "title": "Backpropagation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Motivating+Example+of+a+Linear+Classifier+(1).mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "61739779a06b91130ed4c8cf"
+    },
+    {
+      "title": "Summarizing how Neural Networks Learn",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Summarizing+how+Neural+Networks+Learn.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "617397a26894201307174d02"
+    },
+    {
+      "title": "Limitations of Sigmoid Activation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Limitations+of+Sigmoid+Activation.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "617397bff3d02812e7f91ea4"
+    },
+    {
+      "title": "Tanh, ReLU Activations and Need for Normalization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.9+Tanh%2C+ReLU+Activations+and+Need+for+Normalization.mp4",
+      "module": "Deep Learning Part 1",
+      "chapter": "Introduction to Deep Learning, Activation Functions, Backpropagation",
+      "lesson_id": "617399fdbd83bd4b404c7d70"
+    },
+    {
+      "title": "Weight Initialization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Weight+Initialization.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173aae3bd83bd4b404c7d74"
+    },
+    {
+      "title": "Batch Normalization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Weight+Initialization.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173abe8bd83bd4b404c7d76"
+    },
+    {
+      "title": "Optimization in Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Optimization+in+Neural+Networks.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173aca7bd83bd4b404c7d77"
+    },
+    {
+      "title": "Understanding Loss Surface of Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Understanding+Loss+Surface+of+Neural+Networks.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173ad0089cfe234f7da43f2"
+    },
+    {
+      "title": "First and Second Order Optimization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+First+and+Second+Order+Optimization.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173ad3f59efdc4b1f131ecd"
+    },
+    {
+      "title": "Stochastic Gradient Descent",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Stochastic+Gradient+Descent.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173ad795b433835173545b8"
+    },
+    {
+      "title": "Momentum",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Momentum.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173adbc8cc217351ef03a4d"
+    },
+    {
+      "title": "AdaGrad and RMSProp Optimizer",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+AdaGrad+and+RMSProp+Optimizer.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173ae008c408c34fd7f8ad1"
+    },
+    {
+      "title": "Adam Optimizer",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.9+Adam+Optimizer.mp4",
+      "module": "Deep Learning Part 2",
+      "chapter": "Weight Initialization, Batch Normalization and Optimization",
+      "lesson_id": "6173ae395b433835173545b9"
+    },
+    {
+      "title": "Introduction to Convolutional Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Convolutional+Neural+Networks.mp4",
+      "module": "Deep Learning Part 3",
+      "chapter": "Convolutional Neural Networks (CNN)",
+      "lesson_id": "6173b25dbd83bd4b404c7d7a"
+    },
+    {
+      "title": "Understanding how Convolution Neural Networks work",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Understanding+how+Convolution+Neural+Networks+work.mp4",
+      "module": "Deep Learning Part 3",
+      "chapter": "Convolutional Neural Networks (CNN)",
+      "lesson_id": "6173b08859efdc4b1f131ed2"
+    },
+    {
+      "title": "A closer look at performing Convolutions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+A+closer+look+at+performing+Convolutions.mp4",
+      "module": "Deep Learning Part 3",
+      "chapter": "Convolutional Neural Networks (CNN)",
+      "lesson_id": "6173b11359efdc4b1f131ed3"
+    },
+    {
+      "title": "Understanding Activation Volume in Convolutional Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Understanding+Activation+Volume+in+Convolutional+Neural+Networks.mp4",
+      "module": "Deep Learning Part 3",
+      "chapter": "Convolutional Neural Networks (CNN)",
+      "lesson_id": "6173b150c3e6f84b19163053"
+    },
+    {
+      "title": "Pooling Operation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Pooling+Operation.mp4",
+      "module": "Deep Learning Part 3",
+      "chapter": "Convolutional Neural Networks (CNN)",
+      "lesson_id": "6173b1bbc3e6f84b19163054"
+    },
+    {
+      "title": "Combining the building blocks to build an image classification architecture",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Combining+the+building+blocks+to+build+an+image+classification+architecture.mp4",
+      "module": "Deep Learning Part 3",
+      "chapter": "Convolutional Neural Networks (CNN)",
+      "lesson_id": "6173b21e89cfe234f7da43f7"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Deep+Learning+(1).mp4",
+      "module": "Deep Learning Part 4",
+      "chapter": "CNN Architectures for Image Classification",
+      "lesson_id": "6180d25f21396ec22f1f6a52"
+    },
+    {
+      "title": "AlexNet",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+AlexNet.mp4",
+      "module": "Deep Learning Part 4",
+      "chapter": "CNN Architectures for Image Classification",
+      "lesson_id": "6180d361b5d3b1ac554e3e6b"
+    },
+    {
+      "title": "VGG Part 1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+VGG+Part+1.mp4",
+      "module": "Deep Learning Part 4",
+      "chapter": "CNN Architectures for Image Classification",
+      "lesson_id": "6180d3acbeb5aeac4663942b"
+    },
+    {
+      "title": "VCG Part 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+VGG+Part+2.mp4",
+      "module": "Deep Learning Part 4",
+      "chapter": "CNN Architectures for Image Classification",
+      "lesson_id": "6180d3eb0272ebac6408acfe"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-1.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b4d059efdc4b1f131ed9"
+    },
+    {
+      "title": "A review of some important concepts in deep neural networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-2.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b4dd8cc217351ef03a50"
+    },
+    {
+      "title": "A review of some important concepts in deep neural networks (2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-3.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b4ea8c408c34fd7f8ad6"
+    },
+    {
+      "title": "Sequence modeling tasks (1)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-4.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b4f45b433835173545c4"
+    },
+    {
+      "title": "Sequence modeling tasks (2)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-5.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b4ff89cfe234f7da43f8"
+    },
+    {
+      "title": "Sequence models",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-6.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b50b8cc217351ef03a51"
+    },
+    {
+      "title": "Design goals for deep neural networks that process sequential data",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-7.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b5208cc217351ef03a52"
+    },
+    {
+      "title": "A simple recurrent neural network",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-8.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b529bd83bd4b404c7d7b"
+    },
+    {
+      "title": "Computational graph of recurrent neural networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-9.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b532c3e6f84b19163057"
+    },
+    {
+      "title": "Training a recurrent neural network",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-10.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b6205b433835173545c8"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/rnn-11.mp4",
+      "module": "Deep Learning Part 5",
+      "chapter": "Recurrent Neural Networks",
+      "lesson_id": "6173b62f8c408c34fd7f8ad7"
+    },
+    {
+      "title": "Long-term dependencies",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/lstm-1.mp4",
+      "module": "Deep Learning Part 6",
+      "chapter": "Long Short-Term Memory Models",
+      "lesson_id": "6173b6748cc217351ef03a53"
+    },
+    {
+      "title": "Intuition of Long Short-term Memory Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/lstm-2.mp4",
+      "module": "Deep Learning Part 6",
+      "chapter": "Long Short-Term Memory Models",
+      "lesson_id": "6173b67d89cfe234f7da43f9"
+    },
+    {
+      "title": "Long Short-term Memory Network step-by-step",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/lstm-3.mp4",
+      "module": "Deep Learning Part 6",
+      "chapter": "Long Short-Term Memory Models",
+      "lesson_id": "6173b6858cc217351ef03a54"
+    },
+    {
+      "title": "A few simple variants of RNNs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/lstm-4.mp4",
+      "module": "Deep Learning Part 6",
+      "chapter": "Long Short-Term Memory Models",
+      "lesson_id": "6173b68c5b433835173545c9"
+    },
+    {
+      "title": "Case study: an interesting application that combines CNN and RNN",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/lstm-5.mp4",
+      "module": "Deep Learning Part 6",
+      "chapter": "Long Short-Term Memory Models",
+      "lesson_id": "6173b6d0bd83bd4b404c7d7c"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/lstm-5.mp4",
+      "module": "Deep Learning Part 6",
+      "chapter": "Long Short-Term Memory Models",
+      "lesson_id": "6173b6d959efdc4b1f131eda"
+    },
+    {
+      "title": "Introduction to Autoencoders",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Autoencoders.mp4",
+      "module": "Deep Learning Part 7",
+      "chapter": "Autoencoders",
+      "lesson_id": "61c0607c0e2072e7090d9f4c"
+    },
+    {
+      "title": "Types of Autoencoders",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Autoencoders.mp4",
+      "module": "Deep Learning Part 7",
+      "chapter": "Autoencoders",
+      "lesson_id": "61c060c667b343b8bf127d7b"
+    },
+    {
+      "title": "Activation Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Activation+Functions+(1).mp4",
+      "module": "Deep Learning Part 7",
+      "chapter": "Autoencoders",
+      "lesson_id": "61c0610fa84e61e70f75a570"
+    },
+    {
+      "title": "Loss Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Loss+Functions.mp4",
+      "module": "Deep Learning Part 7",
+      "chapter": "Autoencoders",
+      "lesson_id": "61c0616210218ae6e99051cf"
+    },
+    {
+      "title": "Applications",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Applications.mp4",
+      "module": "Deep Learning Part 7",
+      "chapter": "Autoencoders",
+      "lesson_id": "61c06389f214fcb8b978cc02"
+    },
+    {
+      "title": "Welcome Note from Prof. Shalabh Bhatnagar",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Applications.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8ae8cc217351ef03a56"
+    },
+    {
+      "title": "Introduction to Reinforcement Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Introduction+to+Reinforcement+Learning.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8b889cfe234f7da43fa"
+    },
+    {
+      "title": "Basic Elements of RL",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Basic+Elements+of+RL.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8bf8c408c34fd7f8ad8"
+    },
+    {
+      "title": "Value Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Value+Function.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8c78cc217351ef03a57"
+    },
+    {
+      "title": "Model of the Environment",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Model+of+the+Environment.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8cf59efdc4b1f131edb"
+    },
+    {
+      "title": "Exploration vs Exploitation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.+Exploration+vs+Exploitation.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8d95b433835173545ca"
+    },
+    {
+      "title": "Multi Armed Bandits",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.+Multi+Armed+Bandits.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8e8bd83bd4b404c7d7d"
+    },
+    {
+      "title": "Action Value Methods",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Action+Value+Methods.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8f28cc217351ef03a58"
+    },
+    {
+      "title": "Epsilon Greedy Policy",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/8.+Epsilon+Greedy+Policy.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b8fc59efdc4b1f131edc"
+    },
+    {
+      "title": "A simple Bandit Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+A+simple+Bandit+Algorithm.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b90489cfe234f7da43fb"
+    },
+    {
+      "title": "Bandit Algorithm: Derivation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/10.+Derivation.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b9108c408c34fd7f8ad9"
+    },
+    {
+      "title": "Second Action selection strategy",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/11.+2nd+Action+selection+strategy.mp4",
+      "module": "Reinforcement Learning Part 1",
+      "chapter": "Introduction to Reinforcement Learning and Multi Armed Bandits",
+      "lesson_id": "6173b9168cc217351ef03a59"
+    },
+    {
+      "title": "Introduction to Markov Decision Process",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Introduction+to+Markov+decision+process.mp4",
+      "module": "Reinforcement Learning Part 2",
+      "chapter": "Markov Decision Process Part 1",
+      "lesson_id": "6173b966bd83bd4b404c7d7e"
+    },
+    {
+      "title": "Recycling Robot Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Recycling+Robot+Example.mp4",
+      "module": "Reinforcement Learning Part 2",
+      "chapter": "Markov Decision Process Part 1",
+      "lesson_id": "6173b96e5b433835173545cb"
+    },
+    {
+      "title": "Tasks in RL",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Tasks+in+RL.mp4",
+      "module": "Reinforcement Learning Part 2",
+      "chapter": "Markov Decision Process Part 1",
+      "lesson_id": "6173b97789cfe234f7da43fc"
+    },
+    {
+      "title": "Pole Balancing Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Pole+Balancing+Example.mp4",
+      "module": "Reinforcement Learning Part 2",
+      "chapter": "Markov Decision Process Part 1",
+      "lesson_id": "6173b97e8c408c34fd7f8ada"
+    },
+    {
+      "title": "Policy and Value Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.+Policy+and+Value+Functions.mp4",
+      "module": "Reinforcement Learning Part 3",
+      "chapter": "Markov Decision Process Part 2",
+      "lesson_id": "6173b9a0c3e6f84b19163058"
+    },
+    {
+      "title": "Grid World Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.+Grid+World+Example.mp4",
+      "module": "Reinforcement Learning Part 3",
+      "chapter": "Markov Decision Process Part 2",
+      "lesson_id": "6173b9a75b433835173545cc"
+    },
+    {
+      "title": "Optimal Policies and Optimal Value Functions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Optimal+Policies+and+Optimal+Value+Functions.mp4",
+      "module": "Reinforcement Learning Part 3",
+      "chapter": "Markov Decision Process Part 2",
+      "lesson_id": "6173b9ad6bb4074b3931e8b3"
+    },
+    {
+      "title": "Bellman Equation for Recycling Robot Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/8.+Bellman+Equation+for+Recycling+Robot+Example.mp4",
+      "module": "Reinforcement Learning Part 3",
+      "chapter": "Markov Decision Process Part 2",
+      "lesson_id": "6173b9b5bd83bd4b404c7d7f"
+    },
+    {
+      "title": "Introduction to Dynamic Programming",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Introduction+to+Dynamic+Programming.mp4",
+      "module": "Reinforcement Learning Part 4",
+      "chapter": "Dynamic Programming Part 1",
+      "lesson_id": "6173bb9bbd83bd4b404c7d81"
+    },
+    {
+      "title": "Simple Analysis",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Simple+Analysis.mp4",
+      "module": "Reinforcement Learning Part 4",
+      "chapter": "Dynamic Programming Part 1",
+      "lesson_id": "6173bba28cc217351ef03a5a"
+    },
+    {
+      "title": "Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Example.mp4",
+      "module": "Reinforcement Learning Part 4",
+      "chapter": "Dynamic Programming Part 1",
+      "lesson_id": "6173bbaabd83bd4b404c7d82"
+    },
+    {
+      "title": "Exercise 4.1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Exercise+4.1.mp4",
+      "module": "Reinforcement Learning Part 4",
+      "chapter": "Dynamic Programming Part 1",
+      "lesson_id": "6173bbb059efdc4b1f131edd"
+    },
+    {
+      "title": "Exercise 4.2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.+Exercise+4.2.mp4",
+      "module": "Reinforcement Learning Part 4",
+      "chapter": "Dynamic Programming Part 1",
+      "lesson_id": "6173bbb75b433835173545cd"
+    },
+    {
+      "title": "Policy Improvement Step",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.+Policy+Improvement+Step.mp4",
+      "module": "Reinforcement Learning Part 5",
+      "chapter": "Dynamic Programming Part 2",
+      "lesson_id": "6173bbd76bb4074b3931e8b4"
+    },
+    {
+      "title": "Policy Iteration Procedure",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Policy+Iteration+Procedure.mp4",
+      "module": "Reinforcement Learning Part 5",
+      "chapter": "Dynamic Programming Part 2",
+      "lesson_id": "6173bbde8cc217351ef03a5b"
+    },
+    {
+      "title": "Value Iteration Procedure",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/8.+Value+Iteration+Procedure.mp4",
+      "module": "Reinforcement Learning Part 5",
+      "chapter": "Dynamic Programming Part 2",
+      "lesson_id": "6173bbe5bd83bd4b404c7d83"
+    },
+    {
+      "title": "Geometric Interpretation of Policy Iteration and Value Iteration",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+Geometric+Interpretation+of+PI+and+VI.mp4",
+      "module": "Reinforcement Learning Part 5",
+      "chapter": "Dynamic Programming Part 2",
+      "lesson_id": "6173bbec5b433835173545ce"
+    },
+    {
+      "title": "Brief Introduction to Chapter 5",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/10.+Brief+Intro+to+Chapter+5.mp4",
+      "module": "Reinforcement Learning Part 5",
+      "chapter": "Dynamic Programming Part 2",
+      "lesson_id": "6173bbf38c408c34fd7f8adb"
+    },
+    {
+      "title": "Introduction to Monte Carlo Techniques",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Introduction+to+Monte+Carlo+Techniques.mp4",
+      "module": "Reinforcement Learning Part 6",
+      "chapter": "Monte Carlo Techniques Part 1",
+      "lesson_id": "6173bc3d59efdc4b1f131ede"
+    },
+    {
+      "title": "Monte Carlo Prediction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Monte+Carlo+Prediction.mp4",
+      "module": "Reinforcement Learning Part 6",
+      "chapter": "Monte Carlo Techniques Part 1",
+      "lesson_id": "6173bc455b433835173545cf"
+    },
+    {
+      "title": "Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Algorithm.mp4",
+      "module": "Reinforcement Learning Part 6",
+      "chapter": "Monte Carlo Techniques Part 1",
+      "lesson_id": "6173bc4c5b433835173545d0"
+    },
+    {
+      "title": "Monte Carlo Control",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Monte+Carlo+Control.mp4",
+      "module": "Reinforcement Learning Part 6",
+      "chapter": "Monte Carlo Techniques Part 1",
+      "lesson_id": "6173bc58c3e6f84b19163059"
+    },
+    {
+      "title": "Alternative to Exploring starts",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.+Alternative+to+Exploring+starts.mp4",
+      "module": "Reinforcement Learning Part 6",
+      "chapter": "Monte Carlo Techniques Part 1",
+      "lesson_id": "6173bc606bb4074b3931e8b5"
+    },
+    {
+      "title": "Off Policy methods for prediction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.+Off+Policy+methods+for+prediction.mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bc7a8cc217351ef03a5c"
+    },
+    {
+      "title": "Example (Vehicular Traffic Control)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Example+(Vehicular+Traffic+Control).mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bc878c408c34fd7f8adc"
+    },
+    {
+      "title": "Off Policy Methods (Continued)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/8.+Off+Policy+Methods+(Continued).mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bc908cc217351ef03a5d"
+    },
+    {
+      "title": "Monte Carlo Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+Monte+Carlo+Algorithm.mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bc9abd83bd4b404c7d84"
+    },
+    {
+      "title": "Exercise - 2 State MDP",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/10.+Exercise-+2+State+MDP.mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bca689cfe234f7da43fd"
+    },
+    {
+      "title": "Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/11.+Example.mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bcb559efdc4b1f131edf"
+    },
+    {
+      "title": "Incremental Implementation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/12.+Incremental+Implementation.mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bcbe8cc217351ef03a5e"
+    },
+    {
+      "title": "Incremental Update Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/13.+Incremental+Update+Algorithm.mp4",
+      "module": "Reinforcement Learning Part 7",
+      "chapter": "Monte Carlo Techniques Part 2",
+      "lesson_id": "6173bcc75b433835173545d1"
+    },
+    {
+      "title": "Manifold Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Manifold+Learning.mp4",
+      "module": "Special Topics in Machine Learning Part 1",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 1",
+      "lesson_id": "6173c159c3e6f84b1916305a"
+    },
+    {
+      "title": "Motivation and Main Idea",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Motivation+and+Main+Idea.mp4",
+      "module": "Special Topics in Machine Learning Part 1",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 1",
+      "lesson_id": "6173c18c59efdc4b1f131ee3"
+    },
+    {
+      "title": "Kernel Trick",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Kernel+Trick.mp4",
+      "module": "Special Topics in Machine Learning Part 1",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 1",
+      "lesson_id": "6173c1b55b433835173545d5"
+    },
+    {
+      "title": "Derivations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Derivations.mp4",
+      "module": "Special Topics in Machine Learning Part 1",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 1",
+      "lesson_id": "6173c1e05b433835173545d6"
+    },
+    {
+      "title": "Examples",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Examples.mp4",
+      "module": "Special Topics in Machine Learning Part 1",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 1",
+      "lesson_id": "6173c20a6bb4074b3931e8b8"
+    },
+    {
+      "title": "Stochastic Neighborhood Embedding",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.1.1+Stochastic+Neighborhood+Embedding.mp4",
+      "module": "Special Topics in Machine Learning Part 2",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 2",
+      "lesson_id": "6180d5f4270b20c25c97a453"
+    },
+    {
+      "title": "t-SNE",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.1.2+t-SNE.mp4",
+      "module": "Special Topics in Machine Learning Part 2",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 2",
+      "lesson_id": "6180d620ed4d3fc23ea89e49"
+    },
+    {
+      "title": "t-SNE Applications",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.1.3+t-SNE+Applications.mp4",
+      "module": "Special Topics in Machine Learning Part 2",
+      "chapter": "Non-Linear Dimensionality Reduction: Kernel PCA, t-SNE, Spectral Clustering Part 2",
+      "lesson_id": "6180d6900272ebac6408acff"
+    },
+    {
+      "title": "Introduction to Exploratory Data Analysis",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Exploratory+Data+Analysis.mp4",
+      "module": "Special Topics in Machine Learning Part 3",
+      "chapter": "Exploratory Data Analysis Part 1",
+      "lesson_id": "61bae4710e2072e7090d9f0d"
+    },
+    {
+      "title": "Introduction to Tabular EDA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Introduction+to+Tabular+EDA.mp4",
+      "module": "Special Topics in Machine Learning Part 3",
+      "chapter": "Exploratory Data Analysis Part 1",
+      "lesson_id": "61bae4e30e2072e7090d9f0f"
+    },
+    {
+      "title": "Removing missing values",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Removing+missing+values.mp4",
+      "module": "Special Topics in Machine Learning Part 3",
+      "chapter": "Exploratory Data Analysis Part 1",
+      "lesson_id": "61bae56897499ab8d5e03edf"
+    },
+    {
+      "title": "Correlation Plots",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Correlation+Plots.mp4",
+      "module": "Special Topics in Machine Learning Part 4",
+      "chapter": "Exploratory Data Analysis Part 2",
+      "lesson_id": "61bae687f214fcb8b978cbc7"
+    },
+    {
+      "title": "Categorical Features",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Categorical+Features.mp4",
+      "module": "Special Topics in Machine Learning Part 4",
+      "chapter": "Exploratory Data Analysis Part 2",
+      "lesson_id": "61bae692addeaab8dcf1814b"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction.mp4",
+      "module": "Special Topics in Machine Learning Part 5",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 1",
+      "lesson_id": "61bae72bf214fcb8b978cbc8"
+    },
+    {
+      "title": "Dataset splitting and Model Performance",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Dataset+splitting+and+Model+Performance.mp4",
+      "module": "Special Topics in Machine Learning Part 5",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 1",
+      "lesson_id": "61bae7b9f1c0d2e6ea9603fc"
+    },
+    {
+      "title": "Encoding for Categorical Features",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Dataset+splitting+and+Model+Performance.mp4",
+      "module": "Special Topics in Machine Learning Part 5",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 1",
+      "lesson_id": "61bae7c3addeaab8dcf1814c"
+    },
+    {
+      "title": "Feature Engineering and Hyperparameter Tuning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Feature+Engineering+and+Hyperparameter+tuning+4.mp4",
+      "module": "Special Topics in Machine Learning Part 5",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 1",
+      "lesson_id": "62e8c1e287a6b38aa5376856"
+    },
+    {
+      "title": "Imputation and Outlier Detection",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Imputation+and+Outlier+Detection.mp4",
+      "module": "Special Topics in Machine Learning Part 6",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 2",
+      "lesson_id": "61bae7f710218ae6e9905196"
+    },
+    {
+      "title": "Transformation, Standardisation and Normalization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Transformation%2C+Standardisation+and+Normalization.mp4",
+      "module": "Special Topics in Machine Learning Part 6",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 2",
+      "lesson_id": "61bae85810218ae6e9905199"
+    },
+    {
+      "title": "Feature Engineering and Hyperparameter Tuning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Feature+Engineering+and+Hyperparameter+tuning+4.mp4",
+      "module": "Special Topics in Machine Learning Part 6",
+      "chapter": "Feature Engineering, Hyperparameter Tuning, Model Selection Part 2",
+      "lesson_id": "6328269db736ae8aa6c43914"
+    },
+    {
+      "title": "Introduction and Outline",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-1.mp4",
+      "module": "Advanced Topics in Deep Learning Part 1",
+      "chapter": "Object Detection Part 1",
+      "lesson_id": "6173c6fd8cc217351ef03a60"
+    },
+    {
+      "title": "Classification and Localization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-2.mp4",
+      "module": "Advanced Topics in Deep Learning Part 1",
+      "chapter": "Object Detection Part 1",
+      "lesson_id": "6173c7085b433835173545d7"
+    },
+    {
+      "title": "Multiple Object Regression and Sliding Window",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-2.mp4",
+      "module": "Advanced Topics in Deep Learning Part 1",
+      "chapter": "Object Detection Part 1",
+      "lesson_id": "6173c7138c408c34fd7f8ae0"
+    },
+    {
+      "title": "Region Proposals",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-4.mp4",
+      "module": "Advanced Topics in Deep Learning Part 1",
+      "chapter": "Object Detection Part 1",
+      "lesson_id": "6173c71d59efdc4b1f131ee6"
+    },
+    {
+      "title": "Intersection Over Union And Non Maximum Suppression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-5.mp4",
+      "module": "Advanced Topics in Deep Learning Part 1",
+      "chapter": "Object Detection Part 1",
+      "lesson_id": "6173c727c3e6f84b1916305f"
+    },
+    {
+      "title": "R-CNN, Fast R-CNN, Faster R-CNN",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-6.mp4",
+      "module": "Advanced Topics in Deep Learning Part 2",
+      "chapter": "Object Detection Part 2",
+      "lesson_id": "6173c74cc3e6f84b19163060"
+    },
+    {
+      "title": "YOLO (You Only Look Once)",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-7.mp4",
+      "module": "Advanced Topics in Deep Learning Part 2",
+      "chapter": "Object Detection Part 2",
+      "lesson_id": "6173c7586bb4074b3931e8b9"
+    },
+    {
+      "title": "Instance Segmentation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-8.mp4",
+      "module": "Advanced Topics in Deep Learning Part 2",
+      "chapter": "Object Detection Part 2",
+      "lesson_id": "6173c762bd83bd4b404c7d86"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/od-9.mp4",
+      "module": "Advanced Topics in Deep Learning Part 2",
+      "chapter": "Object Detection Part 2",
+      "lesson_id": "6173c76959efdc4b1f131ee7"
+    },
+    {
+      "title": "Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-1f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7b28cc217351ef03a61"
+    },
+    {
+      "title": "Outline",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-2f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7bd59efdc4b1f131ee8"
+    },
+    {
+      "title": "Review - CNN for image classification",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-3f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7c5c3e6f84b19163061"
+    },
+    {
+      "title": "Sliding Windows",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-4f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7ce8c408c34fd7f8ae1"
+    },
+    {
+      "title": "Fully Convolutional Networks 1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-5f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7e66bb4074b3931e8ba"
+    },
+    {
+      "title": "Fully Convolutional Networks 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-6f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7f1bd83bd4b404c7d87"
+    },
+    {
+      "title": "In-Network Upsampling Techniques",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-7f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c7fc8c408c34fd7f8ae2"
+    },
+    {
+      "title": "Fully Convolutional Encoder Decoder Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-8f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c80c8cc217351ef03a63"
+    },
+    {
+      "title": "Learnable Upsampling Fully Convolutional",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-9f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c81959efdc4b1f131ee9"
+    },
+    {
+      "title": "Contractive-Expansive network with skip-connections",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/ss-10f.mp4",
+      "module": "Advanced Topics in Deep Learning Part 3",
+      "chapter": "Semantic Segmentation",
+      "lesson_id": "6173c8246bb4074b3931e8bb"
+    },
+    {
+      "title": "Introduction and Mathematical Preliminaries",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.1+Introduction+and+Mathematical+Preliminaries.mp4",
+      "module": "Advanced Topics in Deep Learning Part 4",
+      "chapter": "Generative Adversarial Networks Part 1",
+      "lesson_id": "617e4d3989cfe234f7da461c"
+    },
+    {
+      "title": "GAN Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.2+GAN+Algorithm.mp4",
+      "module": "Advanced Topics in Deep Learning Part 4",
+      "chapter": "Generative Adversarial Networks Part 1",
+      "lesson_id": "617e4f04c3e6f84b19163293"
+    },
+    {
+      "title": "Issues in Training GANs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.3+Issues+in+Training+GANs.mp4",
+      "module": "Advanced Topics in Deep Learning Part 4",
+      "chapter": "Generative Adversarial Networks Part 1",
+      "lesson_id": "617e4fad59efdc4b1f1320dc"
+    },
+    {
+      "title": "Wasserstein GANs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.1+Wasserstein+GANs.mp4",
+      "module": "Advanced Topics in Deep Learning Part 4",
+      "chapter": "Generative Adversarial Networks Part 1",
+      "lesson_id": "617e529c5b4338351735480c"
+    },
+    {
+      "title": "Conditional GANs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.2+Conditional+GANs.mp4",
+      "module": "Advanced Topics in Deep Learning Part 5",
+      "chapter": "Generative Adversarial Networks Part 2",
+      "lesson_id": "617e560dbd83bd4b404c7f8c"
+    },
+    {
+      "title": "Cycle GANs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.3+Cycle+GANs.mp4",
+      "module": "Advanced Topics in Deep Learning Part 5",
+      "chapter": "Generative Adversarial Networks Part 2",
+      "lesson_id": "617e56168cc217351ef03c83"
+    },
+    {
+      "title": "Info GANs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.4+Info+GANs.mp4",
+      "module": "Advanced Topics in Deep Learning Part 5",
+      "chapter": "Generative Adversarial Networks Part 2",
+      "lesson_id": "617e56216bb4074b3931eab2"
+    },
+    {
+      "title": "DCGANs",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.5+DCGANs.mp4",
+      "module": "Advanced Topics in Deep Learning Part 5",
+      "chapter": "Generative Adversarial Networks Part 2",
+      "lesson_id": "617e562d59efdc4b1f1320de"
+    },
+    {
+      "title": "Adversarial Encoders",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.6+Adversarial+Autoencoders.mp4",
+      "module": "Advanced Topics in Deep Learning Part 5",
+      "chapter": "Generative Adversarial Networks Part 2",
+      "lesson_id": "617e56378cc217351ef03c84"
+    },
+    {
+      "title": "Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.3.4.7+Summary.mp4",
+      "module": "Advanced Topics in Deep Learning Part 5",
+      "chapter": "Generative Adversarial Networks Part 2",
+      "lesson_id": "617e564189cfe234f7da4628"
+    },
+    {
+      "title": "Introduction Generative Models",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.1+Introduction-Generative+Models.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e46275b4338351735480a"
+    },
+    {
+      "title": "Mathematical Preliminaries",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.2+Mathematical+Preliminaries.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e46b5c3e6f84b1916328e"
+    },
+    {
+      "title": "Autoencoder Issues",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.3+Autonencoder+Issues.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e47198cc217351ef03c7a"
+    },
+    {
+      "title": "VAE Diagrams",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.4+VAE+Diagram.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e474e8c408c34fd7f8d00"
+    },
+    {
+      "title": "Derivations",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.5+Derivations.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e4799bd83bd4b404c7f86"
+    },
+    {
+      "title": "Reparameterizarion Part-1",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.6+Reparameterization-1.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "61c0867510218ae6e99051d6"
+    },
+    {
+      "title": "Reparameterization Part - 2",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.7+Reparameterization+2.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e48518cc217351ef03c7c"
+    },
+    {
+      "title": "Examples and Summary",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.4.8+Examples+and+Summary.mp4",
+      "module": "Advanced Topics in Deep Learning Part 6",
+      "chapter": "Variational Autoencoders",
+      "lesson_id": "617e48b38c408c34fd7f8d01"
+    },
+    {
+      "title": "Temporal Difference Methods",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Temporal+Difference+Methods.mp4",
+      "module": "Advanced Reinforcement Learning Part 1",
+      "chapter": "Q-learning, Temporal Difference Methods Part 1",
+      "lesson_id": "6173c9ddbd83bd4b404c7d88"
+    },
+    {
+      "title": "Example_ Random Walk",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Example_+Random+Walk.mp4",
+      "module": "Advanced Reinforcement Learning Part 1",
+      "chapter": "Q-learning, Temporal Difference Methods Part 1",
+      "lesson_id": "6173c9e959efdc4b1f131eea"
+    },
+    {
+      "title": "Optimality of TD Methods",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Optimality+of+TD+Methods.mp4",
+      "module": "Advanced Reinforcement Learning Part 1",
+      "chapter": "Q-learning, Temporal Difference Methods Part 1",
+      "lesson_id": "6173c9f38c408c34fd7f8ae3"
+    },
+    {
+      "title": "Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Example.mp4",
+      "module": "Advanced Reinforcement Learning Part 1",
+      "chapter": "Q-learning, Temporal Difference Methods Part 1",
+      "lesson_id": "6173c9fc8cc217351ef03a64"
+    },
+    {
+      "title": "Example Continued",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/5.+Example+Continued.mp4",
+      "module": "Advanced Reinforcement Learning Part 2",
+      "chapter": "Q-learning, Temporal Difference Methods Part 2",
+      "lesson_id": "6173ca168cc217351ef03a65"
+    },
+    {
+      "title": "Control Policies",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/6.+Control+Policies.mp4",
+      "module": "Advanced Reinforcement Learning Part 2",
+      "chapter": "Q-learning, Temporal Difference Methods Part 2",
+      "lesson_id": "6173ca206bb4074b3931e8bc"
+    },
+    {
+      "title": "Q-Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Q-Learning.mp4",
+      "module": "Advanced Reinforcement Learning Part 2",
+      "chapter": "Q-learning, Temporal Difference Methods Part 2",
+      "lesson_id": "6173ca2b59efdc4b1f131eeb"
+    },
+    {
+      "title": "Example_ Windy Grid World",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/8.+Example_+Windy+Grid+World.mp4",
+      "module": "Advanced Reinforcement Learning Part 2",
+      "chapter": "Q-learning, Temporal Difference Methods Part 2",
+      "lesson_id": "6173ca3589cfe234f7da4402"
+    },
+    {
+      "title": "Q-Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Q-Learning.mp4",
+      "module": "Advanced Reinforcement Learning Part 3",
+      "chapter": "Q-learning, Temporal Difference Methods Part 3",
+      "lesson_id": "6173ca5bbd83bd4b404c7d89"
+    },
+    {
+      "title": "Example_ Windy Grid World",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/7.+Q-Learning.mp4",
+      "module": "Advanced Reinforcement Learning Part 3",
+      "chapter": "Q-learning, Temporal Difference Methods Part 3",
+      "lesson_id": "6173ca6289cfe234f7da4403"
+    },
+    {
+      "title": "Example_ Cliff Walking",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+Example_+Cliff+Walking.mp4",
+      "module": "Advanced Reinforcement Learning Part 3",
+      "chapter": "Q-learning, Temporal Difference Methods Part 3",
+      "lesson_id": "6173ca6a8c408c34fd7f8ae4"
+    },
+    {
+      "title": "Expected SARSA  Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/9.+Example_+Cliff+Walking.mp4",
+      "module": "Advanced Reinforcement Learning Part 3",
+      "chapter": "Q-learning, Temporal Difference Methods Part 3",
+      "lesson_id": "6173ca728cc217351ef03a66"
+    },
+    {
+      "title": "Introduction and Motivation For Value Function Approximation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+and+Motivation+For+Value+Function+Approximation.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb168c408c34fd7f8ae5"
+    },
+    {
+      "title": "Examples of Parametrization-Linear function Approximation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Examples+of+Parametrization-Linear+function+Approximation.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb25c3e6f84b19163065"
+    },
+    {
+      "title": "Non-Linear Function Approximators-Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Non-Linear+Function+Approximators-Neural+Networks.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb318cc217351ef03a68"
+    },
+    {
+      "title": "Problem of Prediction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Problem+of+Prediction.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb3d59efdc4b1f131eed"
+    },
+    {
+      "title": "Update Rule Algorithms",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Update+Rule+Algorithms.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb488c408c34fd7f8ae7"
+    },
+    {
+      "title": "Example",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Example.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb555b433835173545d9"
+    },
+    {
+      "title": "Human Level Control Through Deep RL Introduction",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Human+Level+Control+through+Deep+RL+-+Introduction.mp4",
+      "module": "Advanced Reinforcement Learning Part 4",
+      "chapter": "Function Approximation, DQN Part 1",
+      "lesson_id": "6173cb636bb4074b3931e8be"
+    },
+    {
+      "title": "Reasons for Instability",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Reasons+for+Instability.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cb9089cfe234f7da4405"
+    },
+    {
+      "title": "Innovation to tackle Instability",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.9+Innovation+to+tackle+Instability.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cba259efdc4b1f131eee"
+    },
+    {
+      "title": "Evaluation of algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.10+Evaluation+of+Algorithm.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cbb26bb4074b3931e8bf"
+    },
+    {
+      "title": "Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.11+Algorithm.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cbc089cfe234f7da4408"
+    },
+    {
+      "title": "Tranining of Q-Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.12+Training+of+Q-Networks.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cbcdc3e6f84b19163067"
+    },
+    {
+      "title": "Implementation Aspects",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.13+Implementation+Aspects.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cbdabd83bd4b404c7d8b"
+    },
+    {
+      "title": "Summary and Related Papers",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.14+Summary+and+Related+Papers.mp4",
+      "module": "Advanced Reinforcement Learning Part 5",
+      "chapter": "Function Approximation, DQN Part 2",
+      "lesson_id": "6173cbf56bb4074b3931e8c0"
+    },
+    {
+      "title": "Introduction to Policy Gradient Methods",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Introduction+to+Policy+Gradient+Method.mp4",
+      "module": "Advanced Reinforcement Learning Part 6",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 1",
+      "lesson_id": "6173cdde89cfe234f7da440a"
+    },
+    {
+      "title": "Policy Parameterization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Policy+Parameterization.mp4",
+      "module": "Advanced Reinforcement Learning Part 6",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 1",
+      "lesson_id": "6173cde76bb4074b3931e8c2"
+    },
+    {
+      "title": "Example Why Policy Parameterization might be Beneficial",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+Example+why+policy+Parameterization+might+be+beneficial.mp4",
+      "module": "Advanced Reinforcement Learning Part 6",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 1",
+      "lesson_id": "6173cdf35b433835173545dd"
+    },
+    {
+      "title": "Advantage of Policy Parameterization over epsilon Greedy Selection",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+Advantage+of+Policy+Parameterization+over+Epsilon+Greedy+Selection.mp4",
+      "module": "Advanced Reinforcement Learning Part 6",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 1",
+      "lesson_id": "6173ce0089cfe234f7da440c"
+    },
+    {
+      "title": "Policy Gradient Theorem",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Policy+Gradient+Theorem.mp4",
+      "module": "Advanced Reinforcement Learning Part 6",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 1",
+      "lesson_id": "6173ce106bb4074b3931e8c3"
+    },
+    {
+      "title": "Reinforce Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Reinforce+Algorithm.mp4",
+      "module": "Advanced Reinforcement Learning Part 6",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 1",
+      "lesson_id": "6173ce2089cfe234f7da440e"
+    },
+    {
+      "title": "Reinforce With Baseline",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.7+Reinforce+with+Baseline.mp4",
+      "module": "Advanced Reinforcement Learning Part 7",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 2",
+      "lesson_id": "6173ce618cc217351ef03a6c"
+    },
+    {
+      "title": "Reinforce with Baseline for Estimating Value Function Parameter",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.8+Reinforce+with+baseline+for+estimating+value+function+parameter.mp4",
+      "module": "Advanced Reinforcement Learning Part 7",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 2",
+      "lesson_id": "6173ce72bd83bd4b404c7d8e"
+    },
+    {
+      "title": "Action Critic Methods",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.9+Action+Critic+Methods.mp4",
+      "module": "Advanced Reinforcement Learning Part 7",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 2",
+      "lesson_id": "6173ce7e89cfe234f7da4410"
+    },
+    {
+      "title": "One Step Action Critic (Episodic) Algorithm",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.10+One+step+Actor+Critic+(Episodic)+Algorithm.mp4",
+      "module": "Advanced Reinforcement Learning Part 7",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 2",
+      "lesson_id": "6173ce8b5b433835173545e0"
+    },
+    {
+      "title": "Policy Gradient Methods For Continuining Problems",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.11+Policy+Gradient+Methods+for+Continuing+Problems.mp4",
+      "module": "Advanced Reinforcement Learning Part 7",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 2",
+      "lesson_id": "6173ce978c408c34fd7f8aec"
+    },
+    {
+      "title": "Policy Parameterization for Continuous Action",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.12+Policy+Parametrization+for+Continuous+Action.mp4",
+      "module": "Advanced Reinforcement Learning Part 7",
+      "chapter": "Policy Gradient Techniques and Actor Critic Methods Part 2",
+      "lesson_id": "6173cea589cfe234f7da4412"
+    },
+    {
+      "title": "Bayesian Modeling",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.01.Bayesian-Modeling.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "6362204d87a6b38aa5376ec9"
+    },
+    {
+      "title": "Priors",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.02.Priors.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "6362205bbb8b9e8ac30287ec"
+    },
+    {
+      "title": "MLE and MAP",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.03.MLE+and+MAP.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "6362206cb736ae8aa6c43c2a"
+    },
+    {
+      "title": "Bayesian Inference - Examples",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.04.Bayesian-Inference-Examples.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "6362207a3a4ed28ac1fd36a6"
+    },
+    {
+      "title": "Approximation Methods",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.04.Bayesian-Inference-Examples.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "6362208787a6b38aa5376eca"
+    },
+    {
+      "title": "Variational Inference",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.06.Variational-Inference.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "63622093bb8b9e8ac30287ed"
+    },
+    {
+      "title": "Evidence Lower Bound",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.07.Evidence+Lower+Bound.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "636220a83a4ed28ac1fd36a7"
+    },
+    {
+      "title": "KL Divergence",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.08.KL-Divergence.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "636220b187a6b38aa5376ecb"
+    },
+    {
+      "title": "Variational Bayes Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.10.Variational-Bayes-Learning.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "636220c9bb8b9e8ac30287ee"
+    },
+    {
+      "title": "Myths and Misconceptions",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.11.Myths-and-Misconceptions.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 1",
+      "chapter": "Bayesian Inference and Variational Methods",
+      "lesson_id": "636220d2b736ae8aa6c43c2b"
+    },
+    {
+      "title": "Review of Bayesian Inference",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.1+Bayesian+Inference.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 2",
+      "chapter": "Bayesian Optimization and Gaussian Processes",
+      "lesson_id": "636221af87a6b38aa5376ecc"
+    },
+    {
+      "title": "Gaussian Processes",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.2+Gaussian+Processes.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 2",
+      "chapter": "Bayesian Optimization and Gaussian Processes",
+      "lesson_id": "636221bdbb8b9e8ac30287ef"
+    },
+    {
+      "title": "Gaussian Process Regression and Classification",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.3+GP+Regression+and+Classification.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 2",
+      "chapter": "Bayesian Optimization and Gaussian Processes",
+      "lesson_id": "636221c8b736ae8aa6c43c2c"
+    },
+    {
+      "title": "Gaussian Process Properties",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.4+GP+Properties.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 2",
+      "chapter": "Bayesian Optimization and Gaussian Processes",
+      "lesson_id": "636221df3a4ed28ac1fd36a8"
+    },
+    {
+      "title": "Bayesian Optimization",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.5+Bayesian+Optimization.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 2",
+      "chapter": "Bayesian Optimization and Gaussian Processes",
+      "lesson_id": "636221ed87a6b38aa5376ecd"
+    },
+    {
+      "title": "Applications and Conclusion",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.6+Applications.mp4",
+      "module": "Bayesian Methods in Machine Learning Part 2",
+      "chapter": "Bayesian Optimization and Gaussian Processes",
+      "lesson_id": "636221fcbb8b9e8ac30287f0"
+    },
+    {
+      "title": "Linear Regression Project 1 - Jupyter notebooks and Simple Linear Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Linear+Regression+Project+1+-+Jupyter+notebooks+and+Simple+Linear+Regression.mp4",
+      "module": "Practical Hands-on Session Part 1",
+      "chapter": "Machine Learning model generation with scikit-learn Part 1",
+      "lesson_id": "62ec0907b736ae8aa6c435e9"
+    },
+    {
+      "title": "Linear Regression Project 2 - Multiple Linear Regression",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Linear+Regression+Project+2+-+Multiple+Linear+Regression.mp4",
+      "module": "Practical Hands-on Session Part 1",
+      "chapter": "Machine Learning model generation with scikit-learn Part 1",
+      "lesson_id": "62ec0ab7b736ae8aa6c435ea"
+    },
+    {
+      "title": "Linear Regression Project 3 - GridSearchCV",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Linear+Regression+Project+3+-+GridSearchCV.mp4",
+      "module": "Practical Hands-on Session Part 1",
+      "chapter": "Machine Learning model generation with scikit-learn Part 1",
+      "lesson_id": "62ec0cc387a6b38aa5376873"
+    },
+    {
+      "title": "Linear Regression Project 4 - Polynomial Feature Transformation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Linear+Regression+Project+4+-+Polynomial+Feature+Transformation.mp4",
+      "module": "Practical Hands-on Session Part 1",
+      "chapter": "Machine Learning model generation with scikit-learn Part 1",
+      "lesson_id": "62ec0e1c3a4ed28ac1fd309f"
+    },
+    {
+      "title": "Classifier Design I - Wisconsin cancer Dataset - EDA",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Classification+I+-+Wisconsin+cancer+Dataset+-+EDA.mp4",
+      "module": "Practical Hands-on Session Part 2",
+      "chapter": "Machine Learning model generation with scikit-learn Part 2",
+      "lesson_id": "62fb771b3a4ed28ac1fd3128"
+    },
+    {
+      "title": "Classifier Design II - Wisconsin cancer Dataset - Classifier Design and Scaling",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Classification+II+-+Wisconsin+cancer+Dataset+-+Classifier+Design+and+Scaling.mp4",
+      "module": "Practical Hands-on Session Part 2",
+      "chapter": "Machine Learning model generation with scikit-learn Part 2",
+      "lesson_id": "62fb7a4e3a4ed28ac1fd312b"
+    },
+    {
+      "title": "Classifier Design III - Wisconsin cancer Dataset - Classifier Design and Performance Comparison",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/Classification+III+-+Wisconsin+cancer+Dataset+-+Classifier+Design+and+Performance+Comparison.mp4",
+      "module": "Practical Hands-on Session Part 2",
+      "chapter": "Machine Learning model generation with scikit-learn Part 2",
+      "lesson_id": "62fb7a56b736ae8aa6c43677"
+    },
+    {
+      "title": "Pytorch Basics",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/01+Pytorch+Basics.mp4",
+      "module": "Practical Hands-on Session Part 3",
+      "chapter": "Deep Learning model generation with PyTorch Part 1",
+      "lesson_id": "6173d7e75b433835173545e2"
+    },
+    {
+      "title": "Pytorch Autograd",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/02+Pytorch+Autograd.mp4",
+      "module": "Practical Hands-on Session Part 3",
+      "chapter": "Deep Learning model generation with PyTorch Part 1",
+      "lesson_id": "6173d83b8c408c34fd7f8af1"
+    },
+    {
+      "title": "Pytorch Dataloader",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/02+Pytorch+Autograd.mp4",
+      "module": "Practical Hands-on Session Part 3",
+      "chapter": "Deep Learning model generation with PyTorch Part 1",
+      "lesson_id": "6173d88c6bb4074b3931e8c9"
+    },
+    {
+      "title": "Pytorch Neural Networks",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/04+Pytorch+Neural+Networks.mp4",
+      "module": "Practical Hands-on Session Part 4",
+      "chapter": "Deep Learning model generation with PyTorch Part 2",
+      "lesson_id": "6173d8f489cfe234f7da4414"
+    },
+    {
+      "title": "Pytorch VGG Hands On",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/04+Pytorch+Neural+Networks.mp4",
+      "module": "Practical Hands-on Session Part 4",
+      "chapter": "Deep Learning model generation with PyTorch Part 2",
+      "lesson_id": "6173db84c3e6f84b1916306f"
+    },
+    {
+      "title": "Pytorch  Resnet Hands On",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/06+Pytorch+Resnet+Hands+On.mp4",
+      "module": "Practical Hands-on Session Part 4",
+      "chapter": "Deep Learning model generation with PyTorch Part 2",
+      "lesson_id": "6173dbe4bd83bd4b404c7d94"
+    },
+    {
+      "title": "Policy Evaluation",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/1.+Policy+Evaluation.mp4",
+      "module": "Practical Hands-on Session Part 5",
+      "chapter": "Reinforcement Learning agent training in openAI Gym",
+      "lesson_id": "6173d38bc3e6f84b19163069"
+    },
+    {
+      "title": "Policy Iteration",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/2.+Policy+Iteration.mp4",
+      "module": "Practical Hands-on Session Part 5",
+      "chapter": "Reinforcement Learning agent training in openAI Gym",
+      "lesson_id": "6173d3ed6bb4074b3931e8c4"
+    },
+    {
+      "title": "Value Iteration",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/3.+Value+Iteration.mp4",
+      "module": "Practical Hands-on Session Part 6",
+      "chapter": "Reinforcement Learning agent training in openAI Gym Part 2",
+      "lesson_id": "6173d4e2bd83bd4b404c7d92"
+    },
+    {
+      "title": "Q-Learning",
+      "url": "https://explorer-videos-new.s3.ap-south-1.amazonaws.com/4.+Q-Learning.mp4",
+      "module": "Practical Hands-on Session Part 6",
+      "chapter": "Reinforcement Learning agent training in openAI Gym Part 2",
+      "lesson_id": "6173d51c89cfe234f7da4413"
+    }
+  ]
+}
